@@ -1,0 +1,1892 @@
+[Message:   BepInEx] BepInEx 5.4.21.0 - Lethal Company (1/13/2024 3:20:30 PM)
+[Info   :   BepInEx] Running under Unity v2022.3.9.15351836
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.21.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.MonoMod.HookGenPatcher 1.2.1.0]
+[Info   :   BepInEx] 2 patcher plugins loaded
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 32 plugins to load
+[Warning:   BepInEx] Plugin [LetMeLookDown 1.0.1] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[Warning:   BepInEx] Plugin [HealthMetrics 1.0.0] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[Warning:   BepInEx] Plugin [HDLethalCompany-Sligili 1.5.6] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[Warning:   BepInEx] Plugin [MoreEmotes-Sligili 1.3.3] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[Info   :   BepInEx] Loading [Quota Rollover 2.2.0]
+[Info   :Quota Rollover] Mod Boxofbiscuits97.QuotraRollover is loaded!
+[Info   :   BepInEx] Loading [ShipLoot 1.0]
+[Info   :   BepInEx] Loading [LethalLib 0.12.1]
+[Info   : LethalLib] LethalLib loaded!!
+[Info   : LethalLib] Utilities.Init()
+[Info   :   BepInEx] Loading [More Ship Upgrades 2.8.0]
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/LGUStore.prefab
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/IntroScreen.prefab
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/break.mp3
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/error.mp3
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/ButtonPress2.ogg
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/TpButton.asset
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/TpButtonAdv.asset
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/NightVisionItem.asset
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/MedKitItem.asset
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/coilHead.asset
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/Samples/SnareFleaSample.asset
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/Samples/BunkerSpiderSample.asset
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/Samples/HoardingBugSample.asset
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/Samples/BrackenSample.asset
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/Samples/EyelessDogSample.asset
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/Samples/BaboonHawkSample.asset
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/Samples/ThumperSample.asset
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/DivingKitItem.asset
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/beekeeper.prefab
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/ProteinPowder.prefab
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/BiggerLungs.prefab
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/runningShoes.prefab
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/strongLegs.prefab
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/destructiveCodes.prefab
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/nightVision.prefab
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/flashbangsfx.ogg
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/terminalFlash.prefab
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/strongScanner.prefab
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/walkieUpgrade.prefab
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/exoskeleton.prefab
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/Intern.prefab
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/Pager.prefab
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/LightningRod.prefab
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/LockSmith.prefab
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/PlayerHealth.prefab
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/Hunter.prefab
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/ExtendDeadline.prefab
+[Debug  :More Ship Upgrades] LGU has been patched
+[Info   :   BepInEx] Loading [Lethal Company Input Utils 0.5.2]
+[Info   :Lethal Company Input Utils] InputUtils 0.5.2 has finished loading!
+[Info   :   BepInEx] Loading [EmployeeAssignments 1.0.9]
+[Info   :   BepInEx] Loading [LetMeLookDown 1.0.1]
+[Info   :LetMeLookDown] LetMeLookDown mod loaded
+[Info   :   BepInEx] Loading [MoreBlood 1.0.2]
+[Info   : MoreBlood] BindingConfigs
+[Info   : MoreBlood] MoreBlood loaded
+[Info   :   BepInEx] Loading [ReservedItemSlotCore 1.8.10]
+[Info   :ReservedItemSlotCore-1.8.10] BindingConfigs
+[Info   :ReservedItemSlotCore-1.8.10] Cleaning old config entries
+[Info   :ReservedItemSlotCore-1.8.10] ReservedItemSlotCore loaded
+[Info   :   BepInEx] Loading [ReservedFlashlightSlot 1.5.10]
+[Info   :ReservedFlashlightSlot] BindingConfigs
+[Info   :ReservedFlashlightSlot] Cleaning old config entries
+[Info   :ReservedFlashlightSlot] ReservedFlashlightSlot loaded
+[Info   :   BepInEx] Loading [ReservedWalkieSlot 1.5.5]
+[Info   :ReservedWalkieSlot] BindingConfigs
+[Info   :ReservedWalkieSlot] Cleaning old config entries
+[Info   :ReservedWalkieSlot] ReservedWalkieSlot loaded
+[Info   :   BepInEx] Loading [Dynamic Deadline 1.2.2]
+[Info   :Dynamic Deadline] No more short deadlines for excessive quotas.
+[Info   :   BepInEx] Loading [HDLethalCompany-Sligili 1.5.6]
+[Info   :HDLethalCompany-Sligili] HDLethalCompany loaded
+[Info   :   BepInEx] Loading [HideModList 1.0.0]
+[Info   :HideModList] Plugin HideModList is loaded!
+[Info   :   BepInEx] Loading [BoomboxController 1.1.8]
+[Info   :BoomboxController] 
+                                                                                                                                                                  
+`7MM"""Yp,                                   *MM                                 .g8"""bgd                  mm                   `7MM `7MM                  
+  MM    Yb                                    MM                               .dP'     `M                  MM                     MM   MM                  
+  MM    dP  ,pW"Wq.   ,pW"Wq.`7MMpMMMb.pMMMb. MM,dMMb.   ,pW"Wq.`7M'   `MF'    dM'       `,pW"Wq.`7MMpMMMbmmMMmm `7Mb,od8 ,pW"Wq.  MM   MM  .gP"Ya `7Mb,od8 
+  MM"""bg. 6W'   `Wb 6W'   `Wb MM    MM    MM MM    `Mb 6W'   `Wb `VA ,V'      MM        6W'   `Wb MM    MM MM     MM' "'6W'   `Wb MM   MM ,M'   Yb  MM' "' 
+  MM    `Y 8M     M8 8M     M8 MM    MM    MM MM     M8 8M     M8   XMX        MM.       8M     M8 MM    MM MM     MM    8M     M8 MM   MM 8M""""""  MM     
+  MM    ,9 YA.   ,A9 YA.   ,A9 MM    MM    MM MM.   ,M9 YA.   ,A9 ,V' VA.      `Mb.     ,YA.   ,A9 MM    MM MM     MM    YA.   ,A9 MM   MM YM.    ,  MM     
+.JMMmmmd9   `Ybmd9'   `Ybmd9'.JMML  JMML  JMMLP^YbmdP'   `Ybmd9'.AM.   .MA.      `"bmmmd' `Ybmd9'.JMML  JMML`Mbmo.JMML.   `Ybmd9'.JMML.JMML.`Mbmmd'.JMML.   
+                                                                                                                                                                  
+[Info   :   BepInEx] Loading [LethalUtilities 1.2.15]
+[Info   :Kyxino.LethalUtils] Loading all settings.
+[Info   :Kyxino.LethalUtils] YEEEEEEEET
+[Info   :Kyxino.LethalUtils] All enabled patches have been executed.
+[Info   :Kyxino.LethalUtils] Saved mod version to GeneralConfig.
+[Info   :   BepInEx] Loading [HealthMetrics 1.0.0]
+[Info   :Matsuura.HealthMetrics] HealthMetrics Awake
+[Info   :   BepInEx] Loading [MoreCompany 1.7.4]
+[Info   :MoreCompany] Loading MoreCompany...
+[Info   :MoreCompany] Checking: C:\Users\balin\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\modded2\BepInEx\plugins/MoreCompanyCosmetics
+[Info   :MoreCompany] Read settings and cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.3dglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.bunnyears from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.denimhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.fancyglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.partyglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.gunholster from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.hardhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.jesterhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.kittyears from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.mimemask from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.fancypants from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.outoforder from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.partyhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.plaguemask from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.propellerhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.eyeballs from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.rudolph from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.santahat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.slimething from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.tophat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.watch from bundle
+[Info   :MoreCompany] Loading USER COSMETICS...
+[Info   :MoreCompany] Loaded MoreCompany FULLY
+[Info   :   BepInEx] Loading [BuyableShotgun 1.0.1]
+[Info   :BuyableShotgun] Plugin BuyableShotgun is loaded with version 1.0.1!
+[Info   :   BepInEx] Loading [Buyable Shotgun Shells 1.0.2]
+[Info   :Buyable Shotgun Shells] Plugin Buyable Shotgun Shells is loaded with version 1.0.2!
+[Info   :   BepInEx] Loading [HornMoan 2.1.0]
+[Info   :MetalPipeSFX.HornMoan] The Moaning is Loading
+[Info   :MetalPipeSFX.HornMoan] Loaded The Moaning Successfully
+[Info   :   BepInEx] Loading [RuntimeNetcodeRPCValidator 0.2.5]
+[Info   :   BepInEx] Loading [MoreEmotes-Sligili 1.3.3]
+[Info   :MoreEmotes-Sligili] MoreEmotes loaded
+[Info   :RuntimeNetcodeRPCValidator] Patched 1 ServerRPC & 1 ClientRPC on NetworkBehaviour SignEmoteText.
+[Info   :RuntimeNetcodeRPCValidator] Patched 1 ServerRPC & 1 ClientRPC on NetworkBehaviour SyncAnimatorToOthers.
+[Info   :RuntimeNetcodeRPCValidator] Successfully registered first patch for type PlayerControllerB.Awake | Triggered by MoreEmotes
+[Info   :   BepInEx] Loading [Enhanced Radar Booster 1.5.4]
+[Info   :MrHydralisk.EnhancedRadarBooster] Plugin is loaded!
+[Info   :   BepInEx] Loading [Helmet_Cameras 2.1.5]
+[Info   :Helmet_Cameras] Plugin Helmet_Cameras is loaded with version 2.1.5!
+[Info   :Helmet_Cameras] --------Helmet camera patch done.---------
+[Info   :   BepInEx] Loading [WalkieUse 1.4.0]
+[Info   : WalkieUse] ------Walkie done.------
+[Info   :   BepInEx] Loading [Skinwalker Mod 3.0.0]
+[Info   :RugbugRedfern.SkinwalkerMod] SKINWALKER MOD STARTING UP 3.0.0
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_BaboonHawk VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Bracken VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_BunkerSpider VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Centipede VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_CoilHead VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_EyelessDog VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_ForestGiant VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_GhostGirl VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_GiantWorm VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_HoardingBug VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Hygrodere VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Jester VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Masked VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Nutcracker VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_SporeLizard VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Thumper VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_OtherEnemies VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceLineFrequency VALUE LOADED FROM CONFIG: [1]
+[Info   :RugbugRedfern.SkinwalkerMod] Skinwalker Mod Object Initialized
+[Info   :   BepInEx] Loading [Lethal Progression 1.3.2]
+[Info   :Lethal Progression] Lethal Progression loaded.
+[Info   :   BepInEx] Loading [Bonk Hit SFX 1.0.5]
+[Info   :sunnobunno.bonkhitsfx] sunnobunno.bonkhitsfx is loading.
+[Info   :sunnobunno.bonkhitsfx] sunnobunno.bonkhitsfx is loaded. Ow.
+[Info   :   BepInEx] Loading [Yippee tbh mod 1.2.3]
+[Info   :sunnobunno.YippeeMod] sunnobunno.YippeeMod is loading.
+[Info   :sunnobunno.YippeeMod] sunnobunno.YippeeMod is loaded. Yippee!!!
+[Info   :   BepInEx] Loading [LC Always Hear Active Walkies 1.4.4]
+[Info   :suskitech.LCAlwaysHearActiveWalkie] \ /
+[Info   :suskitech.LCAlwaysHearActiveWalkie] /|\
+[Info   :suskitech.LCAlwaysHearActiveWalkie]  |----|
+[Info   :suskitech.LCAlwaysHearActiveWalkie]  |[__]| Always Hear Active Walkies
+[Info   :suskitech.LCAlwaysHearActiveWalkie]  |.  .| Version 1.4.4 Loaded
+[Info   :suskitech.LCAlwaysHearActiveWalkie]  |____|
+[Info   :suskitech.LCAlwaysHearActiveWalkie] 
+[Info   :suskitech.LCAlwaysHearActiveWalkie] AudibleDistance: 12
+[Info   :suskitech.LCAlwaysHearActiveWalkie] WalkieRecordingRange: 20
+[Info   :suskitech.LCAlwaysHearActiveWalkie] PlayerToPlayerSpatialHearingRange: 20
+[Info   :   BepInEx] Loading [Late Company 1.0.10]
+[Info   :Late Company] Late Company loaded!
+[Message:   BepInEx] Chainloader startup complete
+[Info   :EmployeeAssignments] Plugin EmployeeAssignments is loaded!
+[Info   :ReservedFlashlightSlot] Initializing hotkeys.
+[Info   :ReservedWalkieSlot] Initializing hotkeys.
+[Info   : Unity Log] Saving changed settings
+[Info   : Unity Log] subcribing to steam callbacks
+[Info   :BuyableShotgun] Shotgun added to Shop for 700 credits
+[Info   :Buyable Shotgun Shells] Shotgun Shells added to Shop for 20 credits
+[Info   :BuyableShotgun] Shotgun added to Shop for 700 credits
+[Info   :Buyable Shotgun Shells] Shotgun Shells added to Shop for 20 credits
+[Info   : Unity Log] Returning week num: 4
+[Info   : Unity Log] week num: 4
+[Info   : Unity Log] host button pressed
+[Info   : Unity Log] Returning week num: 4
+[Info   : Unity Log] Displaying menu message
+[Info   : Unity Log] Connection approval callback! Game version of client request: 
+[Info   : Unity Log] Joining client id: 0; Local/host client id: 0
+[Info   : Unity Log] Stopped connection approval callback, as the client in question was the host!
+[Warning: Unity Log] [Netcode] You cannot decline the host connection. The connection was automatically approved.
+[Info   : Unity Log] started host!
+[Info   : Unity Log] are we in a server?: True
+[Info   : Unity Log] Lobby has been created
+[Info   : Unity Log] [Network Transport] Initialized
+[Info   : Unity Log] [Network Transport] Connected
+[Info   :Lethal Progression] XPHandler Initialized.
+[Info   : Unity Log] Enabling connection callbacks in StartOfRound
+[Info   : Unity Log] Began listening to SceneManager_OnLoadComplete1 on this client
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   : LethalLib] Adding 0 unlockables to unlockables list
+[Info   : LethalLib] Adding 0 items to terminal
+[Info   : LethalLib] MoreShipUpgrades registered shop item: Night Vision Goggles
+[Info   : LethalLib] MoreShipUpgrades registered shop item: Medkit
+[Info   : LethalLib] MoreShipUpgrades registered shop item: Peeper
+[Info   : LethalLib] MoreShipUpgrades registered shop item: Diving Kit
+[Info   : LethalLib] BuyableShotgun registered shop item: Shotgun
+[Info   : LethalLib] Adding 8 items to terminal
+[Info   : LethalLib] Adding Night Vision Goggles to terminal
+[Info   : LethalLib] Generating buynode2
+[Info   : LethalLib] Item price: 380, Item index: 13
+[Info   : LethalLib] Generating buynode1
+[Info   : LethalLib] Item price: 380, Item index: 13
+[Info   : LethalLib] Generated keyword: night-vision-goggles
+[Info   : LethalLib] Adding Medkit to terminal
+[Info   : LethalLib] Generating buynode2
+[Info   : LethalLib] Item price: 300, Item index: 14
+[Info   : LethalLib] Generating buynode1
+[Info   : LethalLib] Item price: 300, Item index: 14
+[Info   : LethalLib] Generated keyword: medkit
+[Info   : LethalLib] Adding Peeper to terminal
+[Info   : LethalLib] Generating buynode2
+[Info   : LethalLib] Item price: 500, Item index: 15
+[Info   : LethalLib] Generating buynode1
+[Info   : LethalLib] Item price: 500, Item index: 15
+[Info   : LethalLib] Generated keyword: peeper
+[Info   : LethalLib] Adding Diving Kit to terminal
+[Info   : LethalLib] Generating buynode2
+[Info   : LethalLib] Item price: 650, Item index: 16
+[Info   : LethalLib] Generating buynode1
+[Info   : LethalLib] Item price: 650, Item index: 16
+[Info   : LethalLib] Generated keyword: diving-kit
+[Info   : LethalLib] Adding Shotgun to terminal
+[Info   : LethalLib] Generating buynode2
+[Info   : LethalLib] Item price: 700, Item index: 17
+[Info   : LethalLib] Generating buynode1
+[Info   : LethalLib] Item price: 700, Item index: 17
+[Info   : LethalLib] Generated keyword: shotgun
+[Info   : LethalLib] Adding Shells to terminal
+[Info   : LethalLib] Generating buynode2
+[Info   : LethalLib] Item price: 20, Item index: 18
+[Info   : LethalLib] Generating buynode1
+[Info   : LethalLib] Item price: 20, Item index: 18
+[Info   : LethalLib] Generated keyword: shells
+[Info   : LethalLib] Item Shotgun already exists in terminal, skipping
+[Info   : LethalLib] Item Shells already exists in terminal, skipping
+[Info   :BuyableShotgun] Shotgun added to Shop for 700 credits
+[Info   :Buyable Shotgun Shells] Shotgun Shells added to Shop for 20 credits
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Info   :RugbugRedfern.SkinwalkerMod] HOST SENDING CONFIG TO CLIENTS
+[Info   :RugbugRedfern.SkinwalkerMod] SkinwalkerNetworkManager Awake
+[Info   : Unity Log] Initialized SkinwalkerNetworkManager
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin MoreEmotes
+[Warning: Unity Log] damageTrigger is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The InteractTrigger component was skipped during spawn!
+[Info   : LethalLib] Diagetic mixer is Diagetic
+[Info   : LethalLib] Found 0 prefabs to fix
+[Debug  :More Ship Upgrades] [StartOfRoundPatcher] Initiating components...
+[Debug  :More Ship Upgrades] [StartOfRoundPatcher] LGUStore component initiated...
+[Debug  :More Ship Upgrades] [StartOfRoundPatcher] Snare Flea Sample component initiated...
+[Debug  :More Ship Upgrades] [StartOfRoundPatcher] Bunker Spider Sample component initiated...
+[Debug  :More Ship Upgrades] [StartOfRoundPatcher] Hoarding Bug Sample component initiated...
+[Debug  :More Ship Upgrades] [StartOfRoundPatcher] Bracken Sample component initiated...
+[Debug  :More Ship Upgrades] [StartOfRoundPatcher] Eyeless Dog Sample component initiated...
+[Debug  :More Ship Upgrades] [StartOfRoundPatcher] Baboon Hawk Sample component initiated...
+[Debug  :More Ship Upgrades] [StartOfRoundPatcher] Thumper Sample component initiated...
+[Info   : Unity Log] level id: 0
+[Info   : Unity Log] Changing level
+[Info   : Unity Log] Item sales percentages #0: 0
+[Info   : Unity Log] Item sales percentages #1: 0
+[Info   : Unity Log] Item sales percentages #2: 0
+[Info   : Unity Log] Item sales percentages #3: 0
+[Info   : Unity Log] Item sales percentages #4: 0
+[Info   : Unity Log] Item sales percentages #5: 0
+[Info   : Unity Log] Item sales percentages #6: 0
+[Info   : Unity Log] Item sales percentages #7: 0
+[Info   : Unity Log] Item sales percentages #8: 0
+[Info   : Unity Log] Item sales percentages #9: 0
+[Info   : Unity Log] Item sales percentages #10: 0
+[Info   : Unity Log] Item sales percentages #11: 0
+[Info   : Unity Log] Item sales percentages #12: 0
+[Info   : Unity Log] Item sales percentages #13: 0
+[Info   : Unity Log] Item sales percentages #14: 0
+[Info   : Unity Log] Item sales percentages #15: 0
+[Info   : Unity Log] Item sales percentages #16: 0
+[Info   : Unity Log] Item sales percentages #17: 0
+[Info   : Unity Log] Item sales percentages #18: 0
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Info   : Unity Log] Suits: 1
+[Info   : Unity Log] Suit #0: 0
+[Info   : Unity Log] pos: (-2.45, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Info   : Unity Log] Key 'shipGrabbableItems' does not exist
+[Info   :Lethal Progression] XP Network Behavior Made!
+[Info   :Lethal Progression] Loaded host config: Person Multiplier = 35
+[Info   :Lethal Progression] Loaded host config: Quota Multiplier = 30
+[Info   :Lethal Progression] Loaded host config: XP Minimum = 40
+[Info   :Lethal Progression] Loaded host config: XP Maximum = 750
+[Info   :Lethal Progression] Loaded host config: Unspec in Ship Only = true
+[Info   :Lethal Progression] Loaded host config: Disable Unspec = false
+[Info   :Lethal Progression] Loaded host config: Health Regen Enabled = true
+[Info   :Lethal Progression] Loaded host config: Health Regen Max Level = 20
+[Info   :Lethal Progression] Loaded host config: Health Regen Multiplier = 0.05
+[Info   :Lethal Progression] Loaded host config: Stamina Enabled = true
+[Info   :Lethal Progression] Loaded host config: Stamina Max Level = 99999
+[Info   :Lethal Progression] Loaded host config: Stamina Multiplier = 2
+[Info   :Lethal Progression] Loaded host config: Battery Life Enabled = true
+[Info   :Lethal Progression] Loaded host config: Battery Life Max Level = 99999
+[Info   :Lethal Progression] Loaded host config: Battery Life Multiplier = 5
+[Info   :Lethal Progression] Loaded host config: Hand Slots Enabled = true
+[Info   :Lethal Progression] Loaded host config: Hand Slots Max Level = 30
+[Info   :Lethal Progression] Loaded host config: Hand Slots Multiplier = 10
+[Info   :Lethal Progression] Loaded host config: Loot Value Enabled = true
+[Info   :Lethal Progression] Loaded host config: Loot Value Max Level = 99999
+[Info   :Lethal Progression] Loaded host config: Loot Value Multiplier = 0.25
+[Info   :Lethal Progression] Loaded host config: Oxygen Enabled = true
+[Info   :Lethal Progression] Loaded host config: Oxygen Max Level = 99999
+[Info   :Lethal Progression] Loaded host config: Oxygen Multiplier = 1
+[Info   :Lethal Progression] HP Regen check 1
+[Info   :Lethal Progression] Creating button for HPR
+[Info   :Lethal Progression] Setup passed!
+[Info   :Lethal Progression] Added to skill list..
+[Info   :Lethal Progression] Creating button for STM
+[Info   :Lethal Progression] Setup passed!
+[Info   :Lethal Progression] Added to skill list..
+[Info   :Lethal Progression] Creating button for BAT
+[Info   :Lethal Progression] Setup passed!
+[Info   :Lethal Progression] Added to skill list..
+[Info   :Lethal Progression] Creating button for VAL
+[Info   :Lethal Progression] Setup passed!
+[Info   :Lethal Progression] Added to skill list..
+[Info   :Lethal Progression] Creating button for OXY
+[Info   :Lethal Progression] Setup passed!
+[Info   :Lethal Progression] Added to skill list..
+[Info   :Lethal Progression] Setting team value hud to 0
+[Error  :Lethal Progression] Loading XP!
+[Info   :Lethal Progression] 0 players, 0 quotas, 40 initial cost, 0 person value, 0 quota value, 40 total cost.
+[Info   :Lethal Progression] 0 players, 0 quotas, 40 initial cost, 0 person value, 0 quota value, 40 total cost.
+[Info   :Lethal Progression] 40
+[Info   : Unity Log] Item sales percentages #0: 0
+[Info   : Unity Log] Item sales percentages #1: 0
+[Info   : Unity Log] Item sales percentages #2: 0
+[Info   : Unity Log] Item sales percentages #3: 0
+[Info   : Unity Log] Item sales percentages #4: 0
+[Info   : Unity Log] Item sales percentages #5: 0
+[Info   : Unity Log] Item sales percentages #6: 0
+[Info   : Unity Log] Item sales percentages #7: 0
+[Info   : Unity Log] Item sales percentages #8: 0
+[Info   : Unity Log] Item sales percentages #9: 0
+[Info   : Unity Log] Item sales percentages #10: 0
+[Info   : Unity Log] Item sales percentages #11: 0
+[Info   : Unity Log] Item sales percentages #12: 0
+[Info   : Unity Log] Item sales percentages #13: 0
+[Info   : Unity Log] Item sales percentages #14: 0
+[Info   : Unity Log] Item sales percentages #15: 0
+[Info   : Unity Log] Item sales percentages #16: 0
+[Info   : Unity Log] Item sales percentages #17: 0
+[Info   : Unity Log] Item sales percentages #18: 0
+[Info   : Unity Log] Group credits: 60
+[Debug  :More Ship Upgrades] [TerminalPatcher] Start
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\Users\balin\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\modded2\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\Users\balin\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\modded2\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\Users\balin\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\modded2\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded C:\Users\balin\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\modded2\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
+[Info   : Unity Log] Taking control of player Player and enabling camera!
+[Info   : Unity Log] Starting voice tracking for player: balintice
+[Info   : Unity Log] !!!! ENABLING CAMERA FOR PLAYER: Player
+[Info   : Unity Log] !!!! connectedPlayersAmount: 0
+[Info   : Unity Log] System.IO.DirectoryNotFoundException: Could not find a part of the path "C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\config2\KillableEnemies.md".
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00164] in <787acc3c9a4c471ba7d971300105af24>:IL_0164 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <787acc3c9a4c471ba7d971300105af24>:IL_0000 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenWrite (System.String path) [0x00000] in <787acc3c9a4c471ba7d971300105af24>:IL_0000 
+  at PersonalAssignments.Components.KillableEnemiesOutput.OutputList () [0x000d5] in <0391b5eeb10d416d9ce26cec847c0394>:IL_00D5 
+[Info   : Unity Log] [HELMET_CAMERAS] Starting coroutine...
+[Info   : Unity Log] [HELMET_CAMERAS] 5 seconds for init mode... Please wait...
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/beekeeper.prefab
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/ProteinPowder.prefab
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/BiggerLungs.prefab
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/runningShoes.prefab
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/strongLegs.prefab
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/destructiveCodes.prefab
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/nightVision.prefab
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/flashbangsfx.ogg
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/terminalFlash.prefab
+[Debug  :More Ship Upgrades] [AssetBundleHandler] Loaded asset located in Assets/ShipUpgrades/Hunter.prefab
+[Debug  :More Ship Upgrades] [Hunter] hoarding bug
+[Debug  :More Ship Upgrades] [Hunter] Hoarding Bug
+[Debug  :More Ship Upgrades] [Hunter] centipede
+[Debug  :More Ship Upgrades] [Hunter] Snare Flea
+[Debug  :More Ship Upgrades] [Hunter] bunker spider
+[Debug  :More Ship Upgrades] [Hunter] Bunker Spider
+[Debug  :More Ship Upgrades] [Hunter] baboon hawk
+[Debug  :More Ship Upgrades] [Hunter] Baboon Hawk
+[Debug  :More Ship Upgrades] [Hunter] flowerman
+[Debug  :More Ship Upgrades] [Hunter] Bracken
+[Debug  :More Ship Upgrades] [Hunter] mouthdog
+[Debug  :More Ship Upgrades] [Hunter] Eyeless Dog
+[Debug  :More Ship Upgrades] [Hunter] crawler
+[Debug  :More Ship Upgrades] [Hunter] Half/Thumper
+[Error  : Unity Log] KeyNotFoundException: The given key '1' was not present in the dictionary.
+Stack trace:
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <787acc3c9a4c471ba7d971300105af24>:IL_001E)
+MoreShipUpgrades.UpgradeComponents.hunterScript.GetHunterInfo (System.Int32 level, System.Int32 price) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_000C)
+MoreShipUpgrades.Managers.UpgradeBus+<>c.<.ctor>b__97_9 (System.Int32 level, System.Int32 price) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0000)
+MoreShipUpgrades.Managers.UpgradeBus.SetupMultiplePurchasableTerminalNode (System.String upgradeName, System.Boolean shareStatus, System.Boolean enabled, System.Int32 initialPrice, System.Int32[] prices, System.String infoFormat) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_018A)
+MoreShipUpgrades.Managers.UpgradeBus.SetupHunterTerminalNode () (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0035)
+MoreShipUpgrades.Managers.UpgradeBus.BuildCustomNodes () (at <a6f8f1183b54486da2ff02c1f5324450>:IL_004F)
+MoreShipUpgrades.Managers.UpgradeBus.Reconstruct () (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0001)
+MoreShipUpgrades.Managers.LGUStore.Start () (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0087)
+
+[Info   : Unity Log] Has beta?: {hasBeta}
+[Info   : Unity Log] Has beta save data: True
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/LightSwitchContainer/PlacementCollider"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/Cube"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/AnimatedShipDoor/HangarDoorLeft (1)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (1)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ControlDesk.001"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (3)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (7)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (6)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (8)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (5)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (4)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/StorageCloset/Cube.000/Cube"
+[Info   :Lethal Progression] 0 players, 0 quotas, 40 initial cost, 0 person value, 0 quota value, 40 total cost.
+[Info   : Unity Log] 76561198372323782
+[Info   :ReservedItemSlotCore-1.8.10] Finalizing sync with server.
+[Info   :ReservedItemSlotCore-1.8.10] Adding 2 Reserved item slots to the inventory HUD. Previous inventory HUD size: 4
+[Info   :ReservedItemSlotCore-1.8.10] Adding Reserved item slot for item types [Pro-flashlight]. Inventory index: 4
+[Info   :ReservedItemSlotCore-1.8.10] Adding Reserved item slot for item types [Walkie-talkie]. Inventory index: 5
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   :ReservedItemSlotCore-1.8.10] Finished adding 2 Reserved Item slots in the inventory HUD.
+[Info   : Unity Log] [HELMET_CAMERAS] Ship camera founded...
+[Info   : Unity Log] [HELMET_CAMERAS] Monitors were changed...
+[Info   : Unity Log] [HELMET_CAMERAS] Turning off vanilla internal ship camera
+[Info   :ReservedWalkieSlot] ACTIVATE ITEM
+[Info   : Unity Log] Set interminalmenu to true: True
+[Error  : Unity Log] Trying to add Caret (TMPro.TMP_SelectionCaret) for graphic rebuild while we are already inside a graphic rebuild loop. This is not supported.
+[Info   :ReservedWalkieSlot] ACTIVATE ITEM
+[Info   :ReservedWalkieSlot] ACTIVATE ITEM
+[Info   : Unity Log] Parsed word: walkie
+[Info   : Unity Log] Could not parse word: talkie
+[Info   : Unity Log] noun keyword: walkie-talkie ; verb keyword: buy ; result null? : False
+[Info   : Unity Log] result: buyWalkieTalkie
+[Info   :ReservedWalkieSlot] ACTIVATE ITEM
+[Info   :ReservedWalkieSlot] ACTIVATE ITEM
+[Info   : Unity Log] Parsed word: walkie
+[Info   : Unity Log] Could not parse word: talkie
+[Info   : Unity Log] noun keyword: walkie-talkie ; verb keyword: buy ; result null? : False
+[Info   : Unity Log] result: buyWalkieTalkie
+[Info   : Unity Log] Could not parse word: lgu
+[Info   : Unity Log] Could not build 3
+[Info   : Unity Log] Could not parse word: beekeper
+[Info   : Unity Log] Could not parse word: lgu
+[Info   :ReservedWalkieSlot] ACTIVATE ITEM
+[Info   : Unity Log] Could not build 3
+[Info   : Unity Log] Could not parse word: beekeeper
+[Error  : Unity Log] KeyNotFoundException: The given key 'Beekeeper' was not present in the dictionary.
+Stack trace:
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <787acc3c9a4c471ba7d971300105af24>:IL_001E)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeClientRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_018A)
+MoreShipUpgrades.Managers.LGUStore.__rpc_handler_1872631331 (Unity.Netcode.NetworkBehaviour target, Unity.Netcode.FastBufferReader reader, Unity.Netcode.__RpcParams rpcParams) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0081)
+Unity.Netcode.RpcMessageHelpers.Handle (Unity.Netcode.NetworkContext& context, Unity.Netcode.RpcMetadata& metadata, Unity.Netcode.FastBufferReader& payload, Unity.Netcode.__RpcParams& rpcParams) (at <895801699cfc4b4ab52267f31e2a4998>:IL_004E)
+Rethrow as Exception: Unhandled RPC exception!
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ClientRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendClientRpc(FastBufferWriter&, UInt32, ClientRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeClientRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:__rpc_handler_1796694669(NetworkBehaviour, FastBufferReader, __RpcParams)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ServerRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendServerRpc(FastBufferWriter&, UInt32, ServerRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgrade(String, Boolean)
+MoreShipUpgrades.Misc.CommandParser:ExecuteBuyUpgrade(CustomTerminalNode, Terminal&)
+MoreShipUpgrades.Misc.CommandParser:ExecuteUpgradeCommand(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Misc.CommandParser:ParseLGUCommands(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Patches.TerminalPatcher:CustomParser(Terminal&, TerminalNode&)
+Terminal:DMD<Terminal::ParsePlayerSentence>(Terminal)
+Terminal:OnSubmit()
+UnityEngine.Events.UnityEvent`1:Invoke(String)
+TMPro.TMP_InputField:SendOnEndEdit()
+TMPro.TMP_InputField:ReleaseSelection()
+TMPro.TMP_InputField:DeactivateInputField(Boolean)
+TMPro.TMP_InputField:OnUpdateSelected(BaseEventData)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[Error  : Unity Log] KeyNotFoundException: The given key 'Beekeeper' was not present in the dictionary.
+Stack trace:
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <787acc3c9a4c471ba7d971300105af24>:IL_001E)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeClientRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_018A)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeServerRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0115)
+MoreShipUpgrades.Managers.LGUStore.__rpc_handler_1796694669 (Unity.Netcode.NetworkBehaviour target, Unity.Netcode.FastBufferReader reader, Unity.Netcode.__RpcParams rpcParams) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0081)
+Unity.Netcode.RpcMessageHelpers.Handle (Unity.Netcode.NetworkContext& context, Unity.Netcode.RpcMetadata& metadata, Unity.Netcode.FastBufferReader& payload, Unity.Netcode.__RpcParams& rpcParams) (at <895801699cfc4b4ab52267f31e2a4998>:IL_004E)
+Rethrow as Exception: Unhandled RPC exception!
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ServerRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendServerRpc(FastBufferWriter&, UInt32, ServerRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgrade(String, Boolean)
+MoreShipUpgrades.Misc.CommandParser:ExecuteBuyUpgrade(CustomTerminalNode, Terminal&)
+MoreShipUpgrades.Misc.CommandParser:ExecuteUpgradeCommand(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Misc.CommandParser:ParseLGUCommands(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Patches.TerminalPatcher:CustomParser(Terminal&, TerminalNode&)
+Terminal:DMD<Terminal::ParsePlayerSentence>(Terminal)
+Terminal:OnSubmit()
+UnityEngine.Events.UnityEvent`1:Invoke(String)
+TMPro.TMP_InputField:SendOnEndEdit()
+TMPro.TMP_InputField:ReleaseSelection()
+TMPro.TMP_InputField:DeactivateInputField(Boolean)
+TMPro.TMP_InputField:OnUpdateSelected(BaseEventData)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[Info   : Unity Log] Shared Upgrade
+[Info   : Unity Log] Could not parse word: lgu
+[Info   : Unity Log] Could not build 3
+[Info   :ReservedWalkieSlot] ACTIVATE ITEM
+[Info   : Unity Log] Could not parse word: beekeeper
+[Error  : Unity Log] KeyNotFoundException: The given key 'Beekeeper' was not present in the dictionary.
+Stack trace:
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <787acc3c9a4c471ba7d971300105af24>:IL_001E)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeClientRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_01A9)
+MoreShipUpgrades.Managers.LGUStore.__rpc_handler_1872631331 (Unity.Netcode.NetworkBehaviour target, Unity.Netcode.FastBufferReader reader, Unity.Netcode.__RpcParams rpcParams) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0081)
+Unity.Netcode.RpcMessageHelpers.Handle (Unity.Netcode.NetworkContext& context, Unity.Netcode.RpcMetadata& metadata, Unity.Netcode.FastBufferReader& payload, Unity.Netcode.__RpcParams& rpcParams) (at <895801699cfc4b4ab52267f31e2a4998>:IL_004E)
+Rethrow as Exception: Unhandled RPC exception!
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ClientRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendClientRpc(FastBufferWriter&, UInt32, ClientRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeClientRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:__rpc_handler_1796694669(NetworkBehaviour, FastBufferReader, __RpcParams)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ServerRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendServerRpc(FastBufferWriter&, UInt32, ServerRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgrade(String, Boolean)
+MoreShipUpgrades.Misc.CommandParser:ExecuteBuyUpgrade(CustomTerminalNode, Terminal&)
+MoreShipUpgrades.Misc.CommandParser:ExecuteUpgradeCommand(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Misc.CommandParser:ParseLGUCommands(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Patches.TerminalPatcher:CustomParser(Terminal&, TerminalNode&)
+Terminal:DMD<Terminal::ParsePlayerSentence>(Terminal)
+Terminal:OnSubmit()
+UnityEngine.Events.UnityEvent`1:Invoke(String)
+TMPro.TMP_InputField:SendOnEndEdit()
+TMPro.TMP_InputField:ReleaseSelection()
+TMPro.TMP_InputField:DeactivateInputField(Boolean)
+TMPro.TMP_InputField:OnUpdateSelected(BaseEventData)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[Error  : Unity Log] KeyNotFoundException: The given key 'Beekeeper' was not present in the dictionary.
+Stack trace:
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <787acc3c9a4c471ba7d971300105af24>:IL_001E)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeClientRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_01A9)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeServerRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0115)
+MoreShipUpgrades.Managers.LGUStore.__rpc_handler_1796694669 (Unity.Netcode.NetworkBehaviour target, Unity.Netcode.FastBufferReader reader, Unity.Netcode.__RpcParams rpcParams) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0081)
+Unity.Netcode.RpcMessageHelpers.Handle (Unity.Netcode.NetworkContext& context, Unity.Netcode.RpcMetadata& metadata, Unity.Netcode.FastBufferReader& payload, Unity.Netcode.__RpcParams& rpcParams) (at <895801699cfc4b4ab52267f31e2a4998>:IL_004E)
+Rethrow as Exception: Unhandled RPC exception!
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ServerRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendServerRpc(FastBufferWriter&, UInt32, ServerRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgrade(String, Boolean)
+MoreShipUpgrades.Misc.CommandParser:ExecuteBuyUpgrade(CustomTerminalNode, Terminal&)
+MoreShipUpgrades.Misc.CommandParser:ExecuteUpgradeCommand(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Misc.CommandParser:ParseLGUCommands(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Patches.TerminalPatcher:CustomParser(Terminal&, TerminalNode&)
+Terminal:DMD<Terminal::ParsePlayerSentence>(Terminal)
+Terminal:OnSubmit()
+UnityEngine.Events.UnityEvent`1:Invoke(String)
+TMPro.TMP_InputField:SendOnEndEdit()
+TMPro.TMP_InputField:ReleaseSelection()
+TMPro.TMP_InputField:DeactivateInputField(Boolean)
+TMPro.TMP_InputField:OnUpdateSelected(BaseEventData)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[Info   : Unity Log] Shared Upgrade
+[Info   : Unity Log] Could not parse word: lgu
+[Info   : Unity Log] Could not parse word: beekeeper
+[Error  : Unity Log] KeyNotFoundException: The given key 'Beekeeper' was not present in the dictionary.
+Stack trace:
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <787acc3c9a4c471ba7d971300105af24>:IL_001E)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeClientRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_01A9)
+MoreShipUpgrades.Managers.LGUStore.__rpc_handler_1872631331 (Unity.Netcode.NetworkBehaviour target, Unity.Netcode.FastBufferReader reader, Unity.Netcode.__RpcParams rpcParams) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0081)
+Unity.Netcode.RpcMessageHelpers.Handle (Unity.Netcode.NetworkContext& context, Unity.Netcode.RpcMetadata& metadata, Unity.Netcode.FastBufferReader& payload, Unity.Netcode.__RpcParams& rpcParams) (at <895801699cfc4b4ab52267f31e2a4998>:IL_004E)
+Rethrow as Exception: Unhandled RPC exception!
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ClientRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendClientRpc(FastBufferWriter&, UInt32, ClientRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeClientRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:__rpc_handler_1796694669(NetworkBehaviour, FastBufferReader, __RpcParams)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ServerRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendServerRpc(FastBufferWriter&, UInt32, ServerRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgrade(String, Boolean)
+MoreShipUpgrades.Misc.CommandParser:ExecuteBuyUpgrade(CustomTerminalNode, Terminal&)
+MoreShipUpgrades.Misc.CommandParser:ExecuteUpgradeCommand(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Misc.CommandParser:ParseLGUCommands(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Patches.TerminalPatcher:CustomParser(Terminal&, TerminalNode&)
+Terminal:DMD<Terminal::ParsePlayerSentence>(Terminal)
+Terminal:OnSubmit()
+UnityEngine.Events.UnityEvent`1:Invoke(String)
+TMPro.TMP_InputField:SendOnEndEdit()
+TMPro.TMP_InputField:ReleaseSelection()
+TMPro.TMP_InputField:DeactivateInputField(Boolean)
+TMPro.TMP_InputField:OnUpdateSelected(BaseEventData)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[Error  : Unity Log] KeyNotFoundException: The given key 'Beekeeper' was not present in the dictionary.
+Stack trace:
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <787acc3c9a4c471ba7d971300105af24>:IL_001E)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeClientRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_01A9)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeServerRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0115)
+MoreShipUpgrades.Managers.LGUStore.__rpc_handler_1796694669 (Unity.Netcode.NetworkBehaviour target, Unity.Netcode.FastBufferReader reader, Unity.Netcode.__RpcParams rpcParams) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0081)
+Unity.Netcode.RpcMessageHelpers.Handle (Unity.Netcode.NetworkContext& context, Unity.Netcode.RpcMetadata& metadata, Unity.Netcode.FastBufferReader& payload, Unity.Netcode.__RpcParams& rpcParams) (at <895801699cfc4b4ab52267f31e2a4998>:IL_004E)
+Rethrow as Exception: Unhandled RPC exception!
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ServerRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendServerRpc(FastBufferWriter&, UInt32, ServerRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgrade(String, Boolean)
+MoreShipUpgrades.Misc.CommandParser:ExecuteBuyUpgrade(CustomTerminalNode, Terminal&)
+MoreShipUpgrades.Misc.CommandParser:ExecuteUpgradeCommand(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Misc.CommandParser:ParseLGUCommands(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Patches.TerminalPatcher:CustomParser(Terminal&, TerminalNode&)
+Terminal:DMD<Terminal::ParsePlayerSentence>(Terminal)
+Terminal:OnSubmit()
+UnityEngine.Events.UnityEvent`1:Invoke(String)
+TMPro.TMP_InputField:SendOnEndEdit()
+TMPro.TMP_InputField:ReleaseSelection()
+TMPro.TMP_InputField:DeactivateInputField(Boolean)
+TMPro.TMP_InputField:OnUpdateSelected(BaseEventData)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[Info   : Unity Log] Shared Upgrade
+[Info   : Unity Log] Could not parse word: lgu
+[Info   :ReservedWalkieSlot] ACTIVATE ITEM
+[Info   : Unity Log] Parsed word: protein
+[Info   : Unity Log] Could not parse word: powder
+[Info   : Unity Log] noun keyword: pro flashlight ; verb keyword: buy ; result null? : False
+[Info   : Unity Log] result: buyProFlashlight1
+[Error  : Unity Log] KeyNotFoundException: The given key 'Protein Powder' was not present in the dictionary.
+Stack trace:
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <787acc3c9a4c471ba7d971300105af24>:IL_001E)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeClientRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_018A)
+MoreShipUpgrades.Managers.LGUStore.__rpc_handler_1872631331 (Unity.Netcode.NetworkBehaviour target, Unity.Netcode.FastBufferReader reader, Unity.Netcode.__RpcParams rpcParams) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0081)
+Unity.Netcode.RpcMessageHelpers.Handle (Unity.Netcode.NetworkContext& context, Unity.Netcode.RpcMetadata& metadata, Unity.Netcode.FastBufferReader& payload, Unity.Netcode.__RpcParams& rpcParams) (at <895801699cfc4b4ab52267f31e2a4998>:IL_004E)
+Rethrow as Exception: Unhandled RPC exception!
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ClientRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendClientRpc(FastBufferWriter&, UInt32, ClientRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeClientRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:__rpc_handler_1796694669(NetworkBehaviour, FastBufferReader, __RpcParams)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ServerRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendServerRpc(FastBufferWriter&, UInt32, ServerRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgrade(String, Boolean)
+MoreShipUpgrades.Misc.CommandParser:ExecuteBuyUpgrade(CustomTerminalNode, Terminal&)
+MoreShipUpgrades.Misc.CommandParser:ExecuteUpgradeCommand(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Misc.CommandParser:ParseLGUCommands(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Patches.TerminalPatcher:CustomParser(Terminal&, TerminalNode&)
+Terminal:DMD<Terminal::ParsePlayerSentence>(Terminal)
+Terminal:OnSubmit()
+UnityEngine.Events.UnityEvent`1:Invoke(String)
+TMPro.TMP_InputField:SendOnEndEdit()
+TMPro.TMP_InputField:ReleaseSelection()
+TMPro.TMP_InputField:DeactivateInputField(Boolean)
+TMPro.TMP_InputField:OnUpdateSelected(BaseEventData)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[Error  : Unity Log] KeyNotFoundException: The given key 'Protein Powder' was not present in the dictionary.
+Stack trace:
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <787acc3c9a4c471ba7d971300105af24>:IL_001E)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeClientRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_018A)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeServerRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0115)
+MoreShipUpgrades.Managers.LGUStore.__rpc_handler_1796694669 (Unity.Netcode.NetworkBehaviour target, Unity.Netcode.FastBufferReader reader, Unity.Netcode.__RpcParams rpcParams) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0081)
+Unity.Netcode.RpcMessageHelpers.Handle (Unity.Netcode.NetworkContext& context, Unity.Netcode.RpcMetadata& metadata, Unity.Netcode.FastBufferReader& payload, Unity.Netcode.__RpcParams& rpcParams) (at <895801699cfc4b4ab52267f31e2a4998>:IL_004E)
+Rethrow as Exception: Unhandled RPC exception!
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ServerRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendServerRpc(FastBufferWriter&, UInt32, ServerRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgrade(String, Boolean)
+MoreShipUpgrades.Misc.CommandParser:ExecuteBuyUpgrade(CustomTerminalNode, Terminal&)
+MoreShipUpgrades.Misc.CommandParser:ExecuteUpgradeCommand(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Misc.CommandParser:ParseLGUCommands(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Patches.TerminalPatcher:CustomParser(Terminal&, TerminalNode&)
+Terminal:DMD<Terminal::ParsePlayerSentence>(Terminal)
+Terminal:OnSubmit()
+UnityEngine.Events.UnityEvent`1:Invoke(String)
+TMPro.TMP_InputField:SendOnEndEdit()
+TMPro.TMP_InputField:ReleaseSelection()
+TMPro.TMP_InputField:DeactivateInputField(Boolean)
+TMPro.TMP_InputField:OnUpdateSelected(BaseEventData)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[Info   : Unity Log] Shared Upgrade
+[Info   : Unity Log] Could not parse word: lgu
+[Info   : Unity Log] Parsed word: protein
+[Info   : Unity Log] Could not parse word: powder
+[Info   : Unity Log] noun keyword: pro flashlight ; verb keyword: buy ; result null? : False
+[Info   : Unity Log] result: buyProFlashlight1
+[Error  : Unity Log] KeyNotFoundException: The given key 'Protein Powder' was not present in the dictionary.
+Stack trace:
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <787acc3c9a4c471ba7d971300105af24>:IL_001E)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeClientRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_01A9)
+MoreShipUpgrades.Managers.LGUStore.__rpc_handler_1872631331 (Unity.Netcode.NetworkBehaviour target, Unity.Netcode.FastBufferReader reader, Unity.Netcode.__RpcParams rpcParams) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0081)
+Unity.Netcode.RpcMessageHelpers.Handle (Unity.Netcode.NetworkContext& context, Unity.Netcode.RpcMetadata& metadata, Unity.Netcode.FastBufferReader& payload, Unity.Netcode.__RpcParams& rpcParams) (at <895801699cfc4b4ab52267f31e2a4998>:IL_004E)
+Rethrow as Exception: Unhandled RPC exception!
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ClientRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendClientRpc(FastBufferWriter&, UInt32, ClientRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeClientRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:__rpc_handler_1796694669(NetworkBehaviour, FastBufferReader, __RpcParams)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ServerRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendServerRpc(FastBufferWriter&, UInt32, ServerRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgrade(String, Boolean)
+MoreShipUpgrades.Misc.CommandParser:ExecuteBuyUpgrade(CustomTerminalNode, Terminal&)
+MoreShipUpgrades.Misc.CommandParser:ExecuteUpgradeCommand(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Misc.CommandParser:ParseLGUCommands(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Patches.TerminalPatcher:CustomParser(Terminal&, TerminalNode&)
+Terminal:DMD<Terminal::ParsePlayerSentence>(Terminal)
+Terminal:OnSubmit()
+UnityEngine.Events.UnityEvent`1:Invoke(String)
+TMPro.TMP_InputField:SendOnEndEdit()
+TMPro.TMP_InputField:ReleaseSelection()
+TMPro.TMP_InputField:DeactivateInputField(Boolean)
+TMPro.TMP_InputField:OnUpdateSelected(BaseEventData)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[Error  : Unity Log] KeyNotFoundException: The given key 'Protein Powder' was not present in the dictionary.
+Stack trace:
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <787acc3c9a4c471ba7d971300105af24>:IL_001E)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeClientRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_01A9)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeServerRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0115)
+MoreShipUpgrades.Managers.LGUStore.__rpc_handler_1796694669 (Unity.Netcode.NetworkBehaviour target, Unity.Netcode.FastBufferReader reader, Unity.Netcode.__RpcParams rpcParams) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0081)
+Unity.Netcode.RpcMessageHelpers.Handle (Unity.Netcode.NetworkContext& context, Unity.Netcode.RpcMetadata& metadata, Unity.Netcode.FastBufferReader& payload, Unity.Netcode.__RpcParams& rpcParams) (at <895801699cfc4b4ab52267f31e2a4998>:IL_004E)
+Rethrow as Exception: Unhandled RPC exception!
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ServerRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendServerRpc(FastBufferWriter&, UInt32, ServerRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgrade(String, Boolean)
+MoreShipUpgrades.Misc.CommandParser:ExecuteBuyUpgrade(CustomTerminalNode, Terminal&)
+MoreShipUpgrades.Misc.CommandParser:ExecuteUpgradeCommand(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Misc.CommandParser:ParseLGUCommands(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Patches.TerminalPatcher:CustomParser(Terminal&, TerminalNode&)
+Terminal:DMD<Terminal::ParsePlayerSentence>(Terminal)
+Terminal:OnSubmit()
+UnityEngine.Events.UnityEvent`1:Invoke(String)
+TMPro.TMP_InputField:SendOnEndEdit()
+TMPro.TMP_InputField:ReleaseSelection()
+TMPro.TMP_InputField:DeactivateInputField(Boolean)
+TMPro.TMP_InputField:OnUpdateSelected(BaseEventData)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[Info   : Unity Log] Shared Upgrade
+[Info   : Unity Log] Could not parse word: lgu
+[Info   :ReservedWalkieSlot] ACTIVATE ITEM
+[Info   : Unity Log] Could not parse word: bigger
+[Info   : Unity Log] Could not parse word: lungs
+[Error  : Unity Log] KeyNotFoundException: The given key 'Bigger Lungs' was not present in the dictionary.
+Stack trace:
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <787acc3c9a4c471ba7d971300105af24>:IL_001E)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeClientRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_018A)
+MoreShipUpgrades.Managers.LGUStore.__rpc_handler_1872631331 (Unity.Netcode.NetworkBehaviour target, Unity.Netcode.FastBufferReader reader, Unity.Netcode.__RpcParams rpcParams) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0081)
+Unity.Netcode.RpcMessageHelpers.Handle (Unity.Netcode.NetworkContext& context, Unity.Netcode.RpcMetadata& metadata, Unity.Netcode.FastBufferReader& payload, Unity.Netcode.__RpcParams& rpcParams) (at <895801699cfc4b4ab52267f31e2a4998>:IL_004E)
+Rethrow as Exception: Unhandled RPC exception!
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ClientRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendClientRpc(FastBufferWriter&, UInt32, ClientRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeClientRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:__rpc_handler_1796694669(NetworkBehaviour, FastBufferReader, __RpcParams)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ServerRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendServerRpc(FastBufferWriter&, UInt32, ServerRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgrade(String, Boolean)
+MoreShipUpgrades.Misc.CommandParser:ExecuteBuyUpgrade(CustomTerminalNode, Terminal&)
+MoreShipUpgrades.Misc.CommandParser:ExecuteUpgradeCommand(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Misc.CommandParser:ParseLGUCommands(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Patches.TerminalPatcher:CustomParser(Terminal&, TerminalNode&)
+Terminal:DMD<Terminal::ParsePlayerSentence>(Terminal)
+Terminal:OnSubmit()
+UnityEngine.Events.UnityEvent`1:Invoke(String)
+TMPro.TMP_InputField:SendOnEndEdit()
+TMPro.TMP_InputField:ReleaseSelection()
+TMPro.TMP_InputField:DeactivateInputField(Boolean)
+TMPro.TMP_InputField:OnUpdateSelected(BaseEventData)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[Error  : Unity Log] KeyNotFoundException: The given key 'Bigger Lungs' was not present in the dictionary.
+Stack trace:
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <787acc3c9a4c471ba7d971300105af24>:IL_001E)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeClientRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_018A)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeServerRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0115)
+MoreShipUpgrades.Managers.LGUStore.__rpc_handler_1796694669 (Unity.Netcode.NetworkBehaviour target, Unity.Netcode.FastBufferReader reader, Unity.Netcode.__RpcParams rpcParams) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0081)
+Unity.Netcode.RpcMessageHelpers.Handle (Unity.Netcode.NetworkContext& context, Unity.Netcode.RpcMetadata& metadata, Unity.Netcode.FastBufferReader& payload, Unity.Netcode.__RpcParams& rpcParams) (at <895801699cfc4b4ab52267f31e2a4998>:IL_004E)
+Rethrow as Exception: Unhandled RPC exception!
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ServerRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendServerRpc(FastBufferWriter&, UInt32, ServerRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgrade(String, Boolean)
+MoreShipUpgrades.Misc.CommandParser:ExecuteBuyUpgrade(CustomTerminalNode, Terminal&)
+MoreShipUpgrades.Misc.CommandParser:ExecuteUpgradeCommand(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Misc.CommandParser:ParseLGUCommands(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Patches.TerminalPatcher:CustomParser(Terminal&, TerminalNode&)
+Terminal:DMD<Terminal::ParsePlayerSentence>(Terminal)
+Terminal:OnSubmit()
+UnityEngine.Events.UnityEvent`1:Invoke(String)
+TMPro.TMP_InputField:SendOnEndEdit()
+TMPro.TMP_InputField:ReleaseSelection()
+TMPro.TMP_InputField:DeactivateInputField(Boolean)
+TMPro.TMP_InputField:OnUpdateSelected(BaseEventData)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[Info   : Unity Log] Shared Upgrade
+[Info   : Unity Log] Could not parse word: lgu
+[Info   : Unity Log] Could not parse word: bigger
+[Info   : Unity Log] Could not parse word: lungs
+[Error  : Unity Log] KeyNotFoundException: The given key 'Bigger Lungs' was not present in the dictionary.
+Stack trace:
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <787acc3c9a4c471ba7d971300105af24>:IL_001E)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeClientRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_01A9)
+MoreShipUpgrades.Managers.LGUStore.__rpc_handler_1872631331 (Unity.Netcode.NetworkBehaviour target, Unity.Netcode.FastBufferReader reader, Unity.Netcode.__RpcParams rpcParams) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0081)
+Unity.Netcode.RpcMessageHelpers.Handle (Unity.Netcode.NetworkContext& context, Unity.Netcode.RpcMetadata& metadata, Unity.Netcode.FastBufferReader& payload, Unity.Netcode.__RpcParams& rpcParams) (at <895801699cfc4b4ab52267f31e2a4998>:IL_004E)
+Rethrow as Exception: Unhandled RPC exception!
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ClientRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendClientRpc(FastBufferWriter&, UInt32, ClientRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeClientRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:__rpc_handler_1796694669(NetworkBehaviour, FastBufferReader, __RpcParams)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ServerRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendServerRpc(FastBufferWriter&, UInt32, ServerRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgrade(String, Boolean)
+MoreShipUpgrades.Misc.CommandParser:ExecuteBuyUpgrade(CustomTerminalNode, Terminal&)
+MoreShipUpgrades.Misc.CommandParser:ExecuteUpgradeCommand(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Misc.CommandParser:ParseLGUCommands(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Patches.TerminalPatcher:CustomParser(Terminal&, TerminalNode&)
+Terminal:DMD<Terminal::ParsePlayerSentence>(Terminal)
+Terminal:OnSubmit()
+UnityEngine.Events.UnityEvent`1:Invoke(String)
+TMPro.TMP_InputField:SendOnEndEdit()
+TMPro.TMP_InputField:ReleaseSelection()
+TMPro.TMP_InputField:DeactivateInputField(Boolean)
+TMPro.TMP_InputField:OnUpdateSelected(BaseEventData)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[Error  : Unity Log] KeyNotFoundException: The given key 'Bigger Lungs' was not present in the dictionary.
+Stack trace:
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <787acc3c9a4c471ba7d971300105af24>:IL_001E)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeClientRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_01A9)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeServerRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0115)
+MoreShipUpgrades.Managers.LGUStore.__rpc_handler_1796694669 (Unity.Netcode.NetworkBehaviour target, Unity.Netcode.FastBufferReader reader, Unity.Netcode.__RpcParams rpcParams) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0081)
+Unity.Netcode.RpcMessageHelpers.Handle (Unity.Netcode.NetworkContext& context, Unity.Netcode.RpcMetadata& metadata, Unity.Netcode.FastBufferReader& payload, Unity.Netcode.__RpcParams& rpcParams) (at <895801699cfc4b4ab52267f31e2a4998>:IL_004E)
+Rethrow as Exception: Unhandled RPC exception!
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ServerRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendServerRpc(FastBufferWriter&, UInt32, ServerRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgrade(String, Boolean)
+MoreShipUpgrades.Misc.CommandParser:ExecuteBuyUpgrade(CustomTerminalNode, Terminal&)
+MoreShipUpgrades.Misc.CommandParser:ExecuteUpgradeCommand(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Misc.CommandParser:ParseLGUCommands(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Patches.TerminalPatcher:CustomParser(Terminal&, TerminalNode&)
+Terminal:DMD<Terminal::ParsePlayerSentence>(Terminal)
+Terminal:OnSubmit()
+UnityEngine.Events.UnityEvent`1:Invoke(String)
+TMPro.TMP_InputField:SendOnEndEdit()
+TMPro.TMP_InputField:ReleaseSelection()
+TMPro.TMP_InputField:DeactivateInputField(Boolean)
+TMPro.TMP_InputField:OnUpdateSelected(BaseEventData)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[Info   : Unity Log] Shared Upgrade
+[Info   : Unity Log] Could not parse word: lgu
+[Info   : Unity Log] Could not parse word: bigger
+[Info   : Unity Log] Could not parse word: lungs
+[Error  : Unity Log] KeyNotFoundException: The given key 'Bigger Lungs' was not present in the dictionary.
+Stack trace:
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <787acc3c9a4c471ba7d971300105af24>:IL_001E)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeClientRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_01A9)
+MoreShipUpgrades.Managers.LGUStore.__rpc_handler_1872631331 (Unity.Netcode.NetworkBehaviour target, Unity.Netcode.FastBufferReader reader, Unity.Netcode.__RpcParams rpcParams) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0081)
+Unity.Netcode.RpcMessageHelpers.Handle (Unity.Netcode.NetworkContext& context, Unity.Netcode.RpcMetadata& metadata, Unity.Netcode.FastBufferReader& payload, Unity.Netcode.__RpcParams& rpcParams) (at <895801699cfc4b4ab52267f31e2a4998>:IL_004E)
+Rethrow as Exception: Unhandled RPC exception!
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ClientRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendClientRpc(FastBufferWriter&, UInt32, ClientRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeClientRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:__rpc_handler_1796694669(NetworkBehaviour, FastBufferReader, __RpcParams)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ServerRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendServerRpc(FastBufferWriter&, UInt32, ServerRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgrade(String, Boolean)
+MoreShipUpgrades.Misc.CommandParser:ExecuteBuyUpgrade(CustomTerminalNode, Terminal&)
+MoreShipUpgrades.Misc.CommandParser:ExecuteUpgradeCommand(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Misc.CommandParser:ParseLGUCommands(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Patches.TerminalPatcher:CustomParser(Terminal&, TerminalNode&)
+Terminal:DMD<Terminal::ParsePlayerSentence>(Terminal)
+Terminal:OnSubmit()
+UnityEngine.Events.UnityEvent`1:Invoke(String)
+TMPro.TMP_InputField:SendOnEndEdit()
+TMPro.TMP_InputField:ReleaseSelection()
+TMPro.TMP_InputField:DeactivateInputField(Boolean)
+TMPro.TMP_InputField:OnUpdateSelected(BaseEventData)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[Error  : Unity Log] KeyNotFoundException: The given key 'Bigger Lungs' was not present in the dictionary.
+Stack trace:
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <787acc3c9a4c471ba7d971300105af24>:IL_001E)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeClientRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_01A9)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeServerRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0115)
+MoreShipUpgrades.Managers.LGUStore.__rpc_handler_1796694669 (Unity.Netcode.NetworkBehaviour target, Unity.Netcode.FastBufferReader reader, Unity.Netcode.__RpcParams rpcParams) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0081)
+Unity.Netcode.RpcMessageHelpers.Handle (Unity.Netcode.NetworkContext& context, Unity.Netcode.RpcMetadata& metadata, Unity.Netcode.FastBufferReader& payload, Unity.Netcode.__RpcParams& rpcParams) (at <895801699cfc4b4ab52267f31e2a4998>:IL_004E)
+Rethrow as Exception: Unhandled RPC exception!
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ServerRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendServerRpc(FastBufferWriter&, UInt32, ServerRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgrade(String, Boolean)
+MoreShipUpgrades.Misc.CommandParser:ExecuteBuyUpgrade(CustomTerminalNode, Terminal&)
+MoreShipUpgrades.Misc.CommandParser:ExecuteUpgradeCommand(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Misc.CommandParser:ParseLGUCommands(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Patches.TerminalPatcher:CustomParser(Terminal&, TerminalNode&)
+Terminal:DMD<Terminal::ParsePlayerSentence>(Terminal)
+Terminal:OnSubmit()
+UnityEngine.Events.UnityEvent`1:Invoke(String)
+TMPro.TMP_InputField:SendOnEndEdit()
+TMPro.TMP_InputField:ReleaseSelection()
+TMPro.TMP_InputField:DeactivateInputField(Boolean)
+TMPro.TMP_InputField:OnUpdateSelected(BaseEventData)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[Info   : Unity Log] Shared Upgrade
+[Info   : Unity Log] Could not parse word: lgu
+[Info   :ReservedWalkieSlot] ACTIVATE ITEM
+[Info   : Unity Log] Could not parse word: running
+[Info   : Unity Log] Parsed word: shoes
+[Info   : Unity Log] noun keyword: shovel ; verb keyword: buy ; result null? : False
+[Info   : Unity Log] result: buyShovel
+[Error  : Unity Log] KeyNotFoundException: The given key 'Running Shoes' was not present in the dictionary.
+Stack trace:
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <787acc3c9a4c471ba7d971300105af24>:IL_001E)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeClientRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_018A)
+MoreShipUpgrades.Managers.LGUStore.__rpc_handler_1872631331 (Unity.Netcode.NetworkBehaviour target, Unity.Netcode.FastBufferReader reader, Unity.Netcode.__RpcParams rpcParams) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0081)
+Unity.Netcode.RpcMessageHelpers.Handle (Unity.Netcode.NetworkContext& context, Unity.Netcode.RpcMetadata& metadata, Unity.Netcode.FastBufferReader& payload, Unity.Netcode.__RpcParams& rpcParams) (at <895801699cfc4b4ab52267f31e2a4998>:IL_004E)
+Rethrow as Exception: Unhandled RPC exception!
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ClientRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendClientRpc(FastBufferWriter&, UInt32, ClientRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeClientRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:__rpc_handler_1796694669(NetworkBehaviour, FastBufferReader, __RpcParams)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ServerRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendServerRpc(FastBufferWriter&, UInt32, ServerRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgrade(String, Boolean)
+MoreShipUpgrades.Misc.CommandParser:ExecuteBuyUpgrade(CustomTerminalNode, Terminal&)
+MoreShipUpgrades.Misc.CommandParser:ExecuteUpgradeCommand(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Misc.CommandParser:ParseLGUCommands(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Patches.TerminalPatcher:CustomParser(Terminal&, TerminalNode&)
+Terminal:DMD<Terminal::ParsePlayerSentence>(Terminal)
+Terminal:OnSubmit()
+UnityEngine.Events.UnityEvent`1:Invoke(String)
+TMPro.TMP_InputField:SendOnEndEdit()
+TMPro.TMP_InputField:ReleaseSelection()
+TMPro.TMP_InputField:DeactivateInputField(Boolean)
+TMPro.TMP_InputField:OnUpdateSelected(BaseEventData)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[Error  : Unity Log] KeyNotFoundException: The given key 'Running Shoes' was not present in the dictionary.
+Stack trace:
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <787acc3c9a4c471ba7d971300105af24>:IL_001E)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeClientRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_018A)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeServerRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0115)
+MoreShipUpgrades.Managers.LGUStore.__rpc_handler_1796694669 (Unity.Netcode.NetworkBehaviour target, Unity.Netcode.FastBufferReader reader, Unity.Netcode.__RpcParams rpcParams) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0081)
+Unity.Netcode.RpcMessageHelpers.Handle (Unity.Netcode.NetworkContext& context, Unity.Netcode.RpcMetadata& metadata, Unity.Netcode.FastBufferReader& payload, Unity.Netcode.__RpcParams& rpcParams) (at <895801699cfc4b4ab52267f31e2a4998>:IL_004E)
+Rethrow as Exception: Unhandled RPC exception!
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ServerRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendServerRpc(FastBufferWriter&, UInt32, ServerRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgrade(String, Boolean)
+MoreShipUpgrades.Misc.CommandParser:ExecuteBuyUpgrade(CustomTerminalNode, Terminal&)
+MoreShipUpgrades.Misc.CommandParser:ExecuteUpgradeCommand(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Misc.CommandParser:ParseLGUCommands(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Patches.TerminalPatcher:CustomParser(Terminal&, TerminalNode&)
+Terminal:DMD<Terminal::ParsePlayerSentence>(Terminal)
+Terminal:OnSubmit()
+UnityEngine.Events.UnityEvent`1:Invoke(String)
+TMPro.TMP_InputField:SendOnEndEdit()
+TMPro.TMP_InputField:ReleaseSelection()
+TMPro.TMP_InputField:DeactivateInputField(Boolean)
+TMPro.TMP_InputField:OnUpdateSelected(BaseEventData)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[Info   : Unity Log] Shared Upgrade
+[Info   : Unity Log] Could not parse word: lgu
+[Info   : Unity Log] Could not parse word: running
+[Info   : Unity Log] Parsed word: shoes
+[Info   : Unity Log] noun keyword: shovel ; verb keyword: buy ; result null? : False
+[Info   : Unity Log] result: buyShovel
+[Error  : Unity Log] KeyNotFoundException: The given key 'Running Shoes' was not present in the dictionary.
+Stack trace:
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <787acc3c9a4c471ba7d971300105af24>:IL_001E)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeClientRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_01A9)
+MoreShipUpgrades.Managers.LGUStore.__rpc_handler_1872631331 (Unity.Netcode.NetworkBehaviour target, Unity.Netcode.FastBufferReader reader, Unity.Netcode.__RpcParams rpcParams) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0081)
+Unity.Netcode.RpcMessageHelpers.Handle (Unity.Netcode.NetworkContext& context, Unity.Netcode.RpcMetadata& metadata, Unity.Netcode.FastBufferReader& payload, Unity.Netcode.__RpcParams& rpcParams) (at <895801699cfc4b4ab52267f31e2a4998>:IL_004E)
+Rethrow as Exception: Unhandled RPC exception!
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ClientRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendClientRpc(FastBufferWriter&, UInt32, ClientRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeClientRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:__rpc_handler_1796694669(NetworkBehaviour, FastBufferReader, __RpcParams)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ServerRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendServerRpc(FastBufferWriter&, UInt32, ServerRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgrade(String, Boolean)
+MoreShipUpgrades.Misc.CommandParser:ExecuteBuyUpgrade(CustomTerminalNode, Terminal&)
+MoreShipUpgrades.Misc.CommandParser:ExecuteUpgradeCommand(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Misc.CommandParser:ParseLGUCommands(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Patches.TerminalPatcher:CustomParser(Terminal&, TerminalNode&)
+Terminal:DMD<Terminal::ParsePlayerSentence>(Terminal)
+Terminal:OnSubmit()
+UnityEngine.Events.UnityEvent`1:Invoke(String)
+TMPro.TMP_InputField:SendOnEndEdit()
+TMPro.TMP_InputField:ReleaseSelection()
+TMPro.TMP_InputField:DeactivateInputField(Boolean)
+TMPro.TMP_InputField:OnUpdateSelected(BaseEventData)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[Error  : Unity Log] KeyNotFoundException: The given key 'Running Shoes' was not present in the dictionary.
+Stack trace:
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <787acc3c9a4c471ba7d971300105af24>:IL_001E)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeClientRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_01A9)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeServerRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0115)
+MoreShipUpgrades.Managers.LGUStore.__rpc_handler_1796694669 (Unity.Netcode.NetworkBehaviour target, Unity.Netcode.FastBufferReader reader, Unity.Netcode.__RpcParams rpcParams) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0081)
+Unity.Netcode.RpcMessageHelpers.Handle (Unity.Netcode.NetworkContext& context, Unity.Netcode.RpcMetadata& metadata, Unity.Netcode.FastBufferReader& payload, Unity.Netcode.__RpcParams& rpcParams) (at <895801699cfc4b4ab52267f31e2a4998>:IL_004E)
+Rethrow as Exception: Unhandled RPC exception!
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ServerRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendServerRpc(FastBufferWriter&, UInt32, ServerRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgrade(String, Boolean)
+MoreShipUpgrades.Misc.CommandParser:ExecuteBuyUpgrade(CustomTerminalNode, Terminal&)
+MoreShipUpgrades.Misc.CommandParser:ExecuteUpgradeCommand(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Misc.CommandParser:ParseLGUCommands(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Patches.TerminalPatcher:CustomParser(Terminal&, TerminalNode&)
+Terminal:DMD<Terminal::ParsePlayerSentence>(Terminal)
+Terminal:OnSubmit()
+UnityEngine.Events.UnityEvent`1:Invoke(String)
+TMPro.TMP_InputField:SendOnEndEdit()
+TMPro.TMP_InputField:ReleaseSelection()
+TMPro.TMP_InputField:DeactivateInputField(Boolean)
+TMPro.TMP_InputField:OnUpdateSelected(BaseEventData)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[Info   : Unity Log] Shared Upgrade
+[Info   : Unity Log] Could not parse word: lgu
+[Info   : Unity Log] Could not parse word: running
+[Info   : Unity Log] Parsed word: shoes
+[Info   : Unity Log] noun keyword: shovel ; verb keyword: buy ; result null? : False
+[Info   : Unity Log] result: buyShovel
+[Error  : Unity Log] KeyNotFoundException: The given key 'Running Shoes' was not present in the dictionary.
+Stack trace:
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <787acc3c9a4c471ba7d971300105af24>:IL_001E)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeClientRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_01A9)
+MoreShipUpgrades.Managers.LGUStore.__rpc_handler_1872631331 (Unity.Netcode.NetworkBehaviour target, Unity.Netcode.FastBufferReader reader, Unity.Netcode.__RpcParams rpcParams) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0081)
+Unity.Netcode.RpcMessageHelpers.Handle (Unity.Netcode.NetworkContext& context, Unity.Netcode.RpcMetadata& metadata, Unity.Netcode.FastBufferReader& payload, Unity.Netcode.__RpcParams& rpcParams) (at <895801699cfc4b4ab52267f31e2a4998>:IL_004E)
+Rethrow as Exception: Unhandled RPC exception!
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ClientRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendClientRpc(FastBufferWriter&, UInt32, ClientRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeClientRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:__rpc_handler_1796694669(NetworkBehaviour, FastBufferReader, __RpcParams)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ServerRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendServerRpc(FastBufferWriter&, UInt32, ServerRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgrade(String, Boolean)
+MoreShipUpgrades.Misc.CommandParser:ExecuteBuyUpgrade(CustomTerminalNode, Terminal&)
+MoreShipUpgrades.Misc.CommandParser:ExecuteUpgradeCommand(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Misc.CommandParser:ParseLGUCommands(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Patches.TerminalPatcher:CustomParser(Terminal&, TerminalNode&)
+Terminal:DMD<Terminal::ParsePlayerSentence>(Terminal)
+Terminal:OnSubmit()
+UnityEngine.Events.UnityEvent`1:Invoke(String)
+TMPro.TMP_InputField:SendOnEndEdit()
+TMPro.TMP_InputField:ReleaseSelection()
+TMPro.TMP_InputField:DeactivateInputField(Boolean)
+TMPro.TMP_InputField:OnUpdateSelected(BaseEventData)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[Error  : Unity Log] KeyNotFoundException: The given key 'Running Shoes' was not present in the dictionary.
+Stack trace:
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <787acc3c9a4c471ba7d971300105af24>:IL_001E)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeClientRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_01A9)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeServerRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0115)
+MoreShipUpgrades.Managers.LGUStore.__rpc_handler_1796694669 (Unity.Netcode.NetworkBehaviour target, Unity.Netcode.FastBufferReader reader, Unity.Netcode.__RpcParams rpcParams) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0081)
+Unity.Netcode.RpcMessageHelpers.Handle (Unity.Netcode.NetworkContext& context, Unity.Netcode.RpcMetadata& metadata, Unity.Netcode.FastBufferReader& payload, Unity.Netcode.__RpcParams& rpcParams) (at <895801699cfc4b4ab52267f31e2a4998>:IL_004E)
+Rethrow as Exception: Unhandled RPC exception!
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ServerRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendServerRpc(FastBufferWriter&, UInt32, ServerRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgrade(String, Boolean)
+MoreShipUpgrades.Misc.CommandParser:ExecuteBuyUpgrade(CustomTerminalNode, Terminal&)
+MoreShipUpgrades.Misc.CommandParser:ExecuteUpgradeCommand(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Misc.CommandParser:ParseLGUCommands(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Patches.TerminalPatcher:CustomParser(Terminal&, TerminalNode&)
+Terminal:DMD<Terminal::ParsePlayerSentence>(Terminal)
+Terminal:OnSubmit()
+UnityEngine.Events.UnityEvent`1:Invoke(String)
+TMPro.TMP_InputField:SendOnEndEdit()
+TMPro.TMP_InputField:ReleaseSelection()
+TMPro.TMP_InputField:DeactivateInputField(Boolean)
+TMPro.TMP_InputField:OnUpdateSelected(BaseEventData)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[Info   : Unity Log] Shared Upgrade
+[Info   : Unity Log] Could not parse word: lgu
+[Info   :ReservedWalkieSlot] ACTIVATE ITEM
+[Info   : Unity Log] Could not parse word: strong
+[Info   : Unity Log] Could not parse word: legs
+[Error  : Unity Log] KeyNotFoundException: The given key 'Strong Legs' was not present in the dictionary.
+Stack trace:
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <787acc3c9a4c471ba7d971300105af24>:IL_001E)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeClientRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_018A)
+MoreShipUpgrades.Managers.LGUStore.__rpc_handler_1872631331 (Unity.Netcode.NetworkBehaviour target, Unity.Netcode.FastBufferReader reader, Unity.Netcode.__RpcParams rpcParams) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0081)
+Unity.Netcode.RpcMessageHelpers.Handle (Unity.Netcode.NetworkContext& context, Unity.Netcode.RpcMetadata& metadata, Unity.Netcode.FastBufferReader& payload, Unity.Netcode.__RpcParams& rpcParams) (at <895801699cfc4b4ab52267f31e2a4998>:IL_004E)
+Rethrow as Exception: Unhandled RPC exception!
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ClientRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendClientRpc(FastBufferWriter&, UInt32, ClientRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeClientRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:__rpc_handler_1796694669(NetworkBehaviour, FastBufferReader, __RpcParams)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ServerRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendServerRpc(FastBufferWriter&, UInt32, ServerRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgrade(String, Boolean)
+MoreShipUpgrades.Misc.CommandParser:ExecuteBuyUpgrade(CustomTerminalNode, Terminal&)
+MoreShipUpgrades.Misc.CommandParser:ExecuteUpgradeCommand(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Misc.CommandParser:ParseLGUCommands(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Patches.TerminalPatcher:CustomParser(Terminal&, TerminalNode&)
+Terminal:DMD<Terminal::ParsePlayerSentence>(Terminal)
+Terminal:OnSubmit()
+UnityEngine.Events.UnityEvent`1:Invoke(String)
+TMPro.TMP_InputField:SendOnEndEdit()
+TMPro.TMP_InputField:ReleaseSelection()
+TMPro.TMP_InputField:DeactivateInputField(Boolean)
+TMPro.TMP_InputField:OnUpdateSelected(BaseEventData)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[Error  : Unity Log] KeyNotFoundException: The given key 'Strong Legs' was not present in the dictionary.
+Stack trace:
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <787acc3c9a4c471ba7d971300105af24>:IL_001E)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeClientRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_018A)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeServerRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0115)
+MoreShipUpgrades.Managers.LGUStore.__rpc_handler_1796694669 (Unity.Netcode.NetworkBehaviour target, Unity.Netcode.FastBufferReader reader, Unity.Netcode.__RpcParams rpcParams) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0081)
+Unity.Netcode.RpcMessageHelpers.Handle (Unity.Netcode.NetworkContext& context, Unity.Netcode.RpcMetadata& metadata, Unity.Netcode.FastBufferReader& payload, Unity.Netcode.__RpcParams& rpcParams) (at <895801699cfc4b4ab52267f31e2a4998>:IL_004E)
+Rethrow as Exception: Unhandled RPC exception!
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ServerRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendServerRpc(FastBufferWriter&, UInt32, ServerRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgrade(String, Boolean)
+MoreShipUpgrades.Misc.CommandParser:ExecuteBuyUpgrade(CustomTerminalNode, Terminal&)
+MoreShipUpgrades.Misc.CommandParser:ExecuteUpgradeCommand(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Misc.CommandParser:ParseLGUCommands(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Patches.TerminalPatcher:CustomParser(Terminal&, TerminalNode&)
+Terminal:DMD<Terminal::ParsePlayerSentence>(Terminal)
+Terminal:OnSubmit()
+UnityEngine.Events.UnityEvent`1:Invoke(String)
+TMPro.TMP_InputField:SendOnEndEdit()
+TMPro.TMP_InputField:ReleaseSelection()
+TMPro.TMP_InputField:DeactivateInputField(Boolean)
+TMPro.TMP_InputField:OnUpdateSelected(BaseEventData)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[Info   : Unity Log] Shared Upgrade
+[Info   : Unity Log] Could not parse word: lgu
+[Info   : Unity Log] Could not parse word: strong
+[Info   : Unity Log] Could not parse word: legs
+[Error  : Unity Log] KeyNotFoundException: The given key 'Strong Legs' was not present in the dictionary.
+Stack trace:
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <787acc3c9a4c471ba7d971300105af24>:IL_001E)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeClientRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_01A9)
+MoreShipUpgrades.Managers.LGUStore.__rpc_handler_1872631331 (Unity.Netcode.NetworkBehaviour target, Unity.Netcode.FastBufferReader reader, Unity.Netcode.__RpcParams rpcParams) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0081)
+Unity.Netcode.RpcMessageHelpers.Handle (Unity.Netcode.NetworkContext& context, Unity.Netcode.RpcMetadata& metadata, Unity.Netcode.FastBufferReader& payload, Unity.Netcode.__RpcParams& rpcParams) (at <895801699cfc4b4ab52267f31e2a4998>:IL_004E)
+Rethrow as Exception: Unhandled RPC exception!
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ClientRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendClientRpc(FastBufferWriter&, UInt32, ClientRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeClientRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:__rpc_handler_1796694669(NetworkBehaviour, FastBufferReader, __RpcParams)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ServerRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendServerRpc(FastBufferWriter&, UInt32, ServerRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgrade(String, Boolean)
+MoreShipUpgrades.Misc.CommandParser:ExecuteBuyUpgrade(CustomTerminalNode, Terminal&)
+MoreShipUpgrades.Misc.CommandParser:ExecuteUpgradeCommand(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Misc.CommandParser:ParseLGUCommands(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Patches.TerminalPatcher:CustomParser(Terminal&, TerminalNode&)
+Terminal:DMD<Terminal::ParsePlayerSentence>(Terminal)
+Terminal:OnSubmit()
+UnityEngine.Events.UnityEvent`1:Invoke(String)
+TMPro.TMP_InputField:SendOnEndEdit()
+TMPro.TMP_InputField:ReleaseSelection()
+TMPro.TMP_InputField:DeactivateInputField(Boolean)
+TMPro.TMP_InputField:OnUpdateSelected(BaseEventData)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[Error  : Unity Log] KeyNotFoundException: The given key 'Strong Legs' was not present in the dictionary.
+Stack trace:
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <787acc3c9a4c471ba7d971300105af24>:IL_001E)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeClientRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_01A9)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeServerRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0115)
+MoreShipUpgrades.Managers.LGUStore.__rpc_handler_1796694669 (Unity.Netcode.NetworkBehaviour target, Unity.Netcode.FastBufferReader reader, Unity.Netcode.__RpcParams rpcParams) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0081)
+Unity.Netcode.RpcMessageHelpers.Handle (Unity.Netcode.NetworkContext& context, Unity.Netcode.RpcMetadata& metadata, Unity.Netcode.FastBufferReader& payload, Unity.Netcode.__RpcParams& rpcParams) (at <895801699cfc4b4ab52267f31e2a4998>:IL_004E)
+Rethrow as Exception: Unhandled RPC exception!
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ServerRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendServerRpc(FastBufferWriter&, UInt32, ServerRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgrade(String, Boolean)
+MoreShipUpgrades.Misc.CommandParser:ExecuteBuyUpgrade(CustomTerminalNode, Terminal&)
+MoreShipUpgrades.Misc.CommandParser:ExecuteUpgradeCommand(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Misc.CommandParser:ParseLGUCommands(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Patches.TerminalPatcher:CustomParser(Terminal&, TerminalNode&)
+Terminal:DMD<Terminal::ParsePlayerSentence>(Terminal)
+Terminal:OnSubmit()
+UnityEngine.Events.UnityEvent`1:Invoke(String)
+TMPro.TMP_InputField:SendOnEndEdit()
+TMPro.TMP_InputField:ReleaseSelection()
+TMPro.TMP_InputField:DeactivateInputField(Boolean)
+TMPro.TMP_InputField:OnUpdateSelected(BaseEventData)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[Info   : Unity Log] Shared Upgrade
+[Info   : Unity Log] Could not parse word: lgu
+[Info   : Unity Log] Could not parse word: strong
+[Info   : Unity Log] Could not parse word: legs
+[Error  : Unity Log] KeyNotFoundException: The given key 'Strong Legs' was not present in the dictionary.
+Stack trace:
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <787acc3c9a4c471ba7d971300105af24>:IL_001E)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeClientRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_01A9)
+MoreShipUpgrades.Managers.LGUStore.__rpc_handler_1872631331 (Unity.Netcode.NetworkBehaviour target, Unity.Netcode.FastBufferReader reader, Unity.Netcode.__RpcParams rpcParams) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0081)
+Unity.Netcode.RpcMessageHelpers.Handle (Unity.Netcode.NetworkContext& context, Unity.Netcode.RpcMetadata& metadata, Unity.Netcode.FastBufferReader& payload, Unity.Netcode.__RpcParams& rpcParams) (at <895801699cfc4b4ab52267f31e2a4998>:IL_004E)
+Rethrow as Exception: Unhandled RPC exception!
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ClientRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendClientRpc(FastBufferWriter&, UInt32, ClientRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeClientRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:__rpc_handler_1796694669(NetworkBehaviour, FastBufferReader, __RpcParams)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ServerRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendServerRpc(FastBufferWriter&, UInt32, ServerRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgrade(String, Boolean)
+MoreShipUpgrades.Misc.CommandParser:ExecuteBuyUpgrade(CustomTerminalNode, Terminal&)
+MoreShipUpgrades.Misc.CommandParser:ExecuteUpgradeCommand(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Misc.CommandParser:ParseLGUCommands(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Patches.TerminalPatcher:CustomParser(Terminal&, TerminalNode&)
+Terminal:DMD<Terminal::ParsePlayerSentence>(Terminal)
+Terminal:OnSubmit()
+UnityEngine.Events.UnityEvent`1:Invoke(String)
+TMPro.TMP_InputField:SendOnEndEdit()
+TMPro.TMP_InputField:ReleaseSelection()
+TMPro.TMP_InputField:DeactivateInputField(Boolean)
+TMPro.TMP_InputField:OnUpdateSelected(BaseEventData)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[Error  : Unity Log] KeyNotFoundException: The given key 'Strong Legs' was not present in the dictionary.
+Stack trace:
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <787acc3c9a4c471ba7d971300105af24>:IL_001E)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeClientRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_01A9)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeServerRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0115)
+MoreShipUpgrades.Managers.LGUStore.__rpc_handler_1796694669 (Unity.Netcode.NetworkBehaviour target, Unity.Netcode.FastBufferReader reader, Unity.Netcode.__RpcParams rpcParams) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0081)
+Unity.Netcode.RpcMessageHelpers.Handle (Unity.Netcode.NetworkContext& context, Unity.Netcode.RpcMetadata& metadata, Unity.Netcode.FastBufferReader& payload, Unity.Netcode.__RpcParams& rpcParams) (at <895801699cfc4b4ab52267f31e2a4998>:IL_004E)
+Rethrow as Exception: Unhandled RPC exception!
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ServerRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendServerRpc(FastBufferWriter&, UInt32, ServerRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgrade(String, Boolean)
+MoreShipUpgrades.Misc.CommandParser:ExecuteBuyUpgrade(CustomTerminalNode, Terminal&)
+MoreShipUpgrades.Misc.CommandParser:ExecuteUpgradeCommand(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Misc.CommandParser:ParseLGUCommands(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Patches.TerminalPatcher:CustomParser(Terminal&, TerminalNode&)
+Terminal:DMD<Terminal::ParsePlayerSentence>(Terminal)
+Terminal:OnSubmit()
+UnityEngine.Events.UnityEvent`1:Invoke(String)
+TMPro.TMP_InputField:SendOnEndEdit()
+TMPro.TMP_InputField:ReleaseSelection()
+TMPro.TMP_InputField:DeactivateInputField(Boolean)
+TMPro.TMP_InputField:OnUpdateSelected(BaseEventData)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[Info   : Unity Log] Shared Upgrade
+[Info   : Unity Log] Could not parse word: lgu
+[Info   :ReservedWalkieSlot] ACTIVATE ITEM
+[Info   : Unity Log] Could not parse word: malware
+[Info   : Unity Log] Could not parse word: broadcaster
+[Error  : Unity Log] KeyNotFoundException: The given key 'Malware Broadcaster' was not present in the dictionary.
+Stack trace:
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <787acc3c9a4c471ba7d971300105af24>:IL_001E)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeClientRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_018A)
+MoreShipUpgrades.Managers.LGUStore.__rpc_handler_1872631331 (Unity.Netcode.NetworkBehaviour target, Unity.Netcode.FastBufferReader reader, Unity.Netcode.__RpcParams rpcParams) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0081)
+Unity.Netcode.RpcMessageHelpers.Handle (Unity.Netcode.NetworkContext& context, Unity.Netcode.RpcMetadata& metadata, Unity.Netcode.FastBufferReader& payload, Unity.Netcode.__RpcParams& rpcParams) (at <895801699cfc4b4ab52267f31e2a4998>:IL_004E)
+Rethrow as Exception: Unhandled RPC exception!
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ClientRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendClientRpc(FastBufferWriter&, UInt32, ClientRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeClientRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:__rpc_handler_1796694669(NetworkBehaviour, FastBufferReader, __RpcParams)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ServerRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendServerRpc(FastBufferWriter&, UInt32, ServerRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgrade(String, Boolean)
+MoreShipUpgrades.Misc.CommandParser:ExecuteBuyUpgrade(CustomTerminalNode, Terminal&)
+MoreShipUpgrades.Misc.CommandParser:ExecuteUpgradeCommand(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Misc.CommandParser:ParseLGUCommands(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Patches.TerminalPatcher:CustomParser(Terminal&, TerminalNode&)
+Terminal:DMD<Terminal::ParsePlayerSentence>(Terminal)
+Terminal:OnSubmit()
+UnityEngine.Events.UnityEvent`1:Invoke(String)
+TMPro.TMP_InputField:SendOnEndEdit()
+TMPro.TMP_InputField:ReleaseSelection()
+TMPro.TMP_InputField:DeactivateInputField(Boolean)
+TMPro.TMP_InputField:OnUpdateSelected(BaseEventData)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[Error  : Unity Log] KeyNotFoundException: The given key 'Malware Broadcaster' was not present in the dictionary.
+Stack trace:
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <787acc3c9a4c471ba7d971300105af24>:IL_001E)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeClientRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_018A)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeServerRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0115)
+MoreShipUpgrades.Managers.LGUStore.__rpc_handler_1796694669 (Unity.Netcode.NetworkBehaviour target, Unity.Netcode.FastBufferReader reader, Unity.Netcode.__RpcParams rpcParams) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0081)
+Unity.Netcode.RpcMessageHelpers.Handle (Unity.Netcode.NetworkContext& context, Unity.Netcode.RpcMetadata& metadata, Unity.Netcode.FastBufferReader& payload, Unity.Netcode.__RpcParams& rpcParams) (at <895801699cfc4b4ab52267f31e2a4998>:IL_004E)
+Rethrow as Exception: Unhandled RPC exception!
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ServerRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendServerRpc(FastBufferWriter&, UInt32, ServerRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgrade(String, Boolean)
+MoreShipUpgrades.Misc.CommandParser:ExecuteBuyUpgrade(CustomTerminalNode, Terminal&)
+MoreShipUpgrades.Misc.CommandParser:ExecuteUpgradeCommand(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Misc.CommandParser:ParseLGUCommands(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Patches.TerminalPatcher:CustomParser(Terminal&, TerminalNode&)
+Terminal:DMD<Terminal::ParsePlayerSentence>(Terminal)
+Terminal:OnSubmit()
+UnityEngine.Events.UnityEvent`1:Invoke(String)
+TMPro.TMP_InputField:SendOnEndEdit()
+TMPro.TMP_InputField:ReleaseSelection()
+TMPro.TMP_InputField:DeactivateInputField(Boolean)
+TMPro.TMP_InputField:OnUpdateSelected(BaseEventData)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[Info   : Unity Log] Shared Upgrade
+[Info   : Unity Log] Could not parse word: lgu
+[Info   : Unity Log] Could not parse word: malware
+[Info   : Unity Log] Could not parse word: broadcaster
+[Info   : Unity Log] Could not parse word: lgu
+[Info   : Unity Log] Could not parse word: malware
+[Info   : Unity Log] Could not parse word: broadcaster
+[Info   : Unity Log] Could not parse word: lgu
+[Info   : Unity Log] Could not parse word: malware
+[Info   : Unity Log] Could not parse word: broadcaster
+[Info   : Unity Log] Could not parse word: lgu
+[Info   :ReservedWalkieSlot] ACTIVATE ITEM
+[Info   : Unity Log] Could not parse word: nv
+[Info   : Unity Log] Could not parse word: headset
+[Info   : Unity Log] Could not parse word: batteries
+[Error  : Unity Log] KeyNotFoundException: The given key 'NV Headset Batteries' was not present in the dictionary.
+Stack trace:
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <787acc3c9a4c471ba7d971300105af24>:IL_001E)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeClientRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_01A9)
+MoreShipUpgrades.Managers.LGUStore.__rpc_handler_1872631331 (Unity.Netcode.NetworkBehaviour target, Unity.Netcode.FastBufferReader reader, Unity.Netcode.__RpcParams rpcParams) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0081)
+Unity.Netcode.RpcMessageHelpers.Handle (Unity.Netcode.NetworkContext& context, Unity.Netcode.RpcMetadata& metadata, Unity.Netcode.FastBufferReader& payload, Unity.Netcode.__RpcParams& rpcParams) (at <895801699cfc4b4ab52267f31e2a4998>:IL_004E)
+Rethrow as Exception: Unhandled RPC exception!
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ClientRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendClientRpc(FastBufferWriter&, UInt32, ClientRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeClientRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:__rpc_handler_1796694669(NetworkBehaviour, FastBufferReader, __RpcParams)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ServerRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendServerRpc(FastBufferWriter&, UInt32, ServerRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgrade(String, Boolean)
+MoreShipUpgrades.Misc.CommandParser:ExecuteBuyUpgrade(CustomTerminalNode, Terminal&)
+MoreShipUpgrades.Misc.CommandParser:ExecuteUpgradeCommand(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Misc.CommandParser:ParseLGUCommands(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Patches.TerminalPatcher:CustomParser(Terminal&, TerminalNode&)
+Terminal:DMD<Terminal::ParsePlayerSentence>(Terminal)
+Terminal:OnSubmit()
+UnityEngine.Events.UnityEvent`1:Invoke(String)
+TMPro.TMP_InputField:SendOnEndEdit()
+TMPro.TMP_InputField:ReleaseSelection()
+TMPro.TMP_InputField:DeactivateInputField(Boolean)
+TMPro.TMP_InputField:OnUpdateSelected(BaseEventData)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[Error  : Unity Log] KeyNotFoundException: The given key 'NV Headset Batteries' was not present in the dictionary.
+Stack trace:
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <787acc3c9a4c471ba7d971300105af24>:IL_001E)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeClientRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_01A9)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeServerRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0115)
+MoreShipUpgrades.Managers.LGUStore.__rpc_handler_1796694669 (Unity.Netcode.NetworkBehaviour target, Unity.Netcode.FastBufferReader reader, Unity.Netcode.__RpcParams rpcParams) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0081)
+Unity.Netcode.RpcMessageHelpers.Handle (Unity.Netcode.NetworkContext& context, Unity.Netcode.RpcMetadata& metadata, Unity.Netcode.FastBufferReader& payload, Unity.Netcode.__RpcParams& rpcParams) (at <895801699cfc4b4ab52267f31e2a4998>:IL_004E)
+Rethrow as Exception: Unhandled RPC exception!
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ServerRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendServerRpc(FastBufferWriter&, UInt32, ServerRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgrade(String, Boolean)
+MoreShipUpgrades.Misc.CommandParser:ExecuteBuyUpgrade(CustomTerminalNode, Terminal&)
+MoreShipUpgrades.Misc.CommandParser:ExecuteUpgradeCommand(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Misc.CommandParser:ParseLGUCommands(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Patches.TerminalPatcher:CustomParser(Terminal&, TerminalNode&)
+Terminal:DMD<Terminal::ParsePlayerSentence>(Terminal)
+Terminal:OnSubmit()
+UnityEngine.Events.UnityEvent`1:Invoke(String)
+TMPro.TMP_InputField:SendOnEndEdit()
+TMPro.TMP_InputField:ReleaseSelection()
+TMPro.TMP_InputField:DeactivateInputField(Boolean)
+TMPro.TMP_InputField:OnUpdateSelected(BaseEventData)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[Info   : Unity Log] Shared Upgrade
+[Info   : Unity Log] Could not parse word: lgu
+[Info   : Unity Log] Could not parse word: nv
+[Info   : Unity Log] Could not parse word: headset
+[Info   : Unity Log] Could not parse word: batteries
+[Error  : Unity Log] KeyNotFoundException: The given key 'NV Headset Batteries' was not present in the dictionary.
+Stack trace:
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <787acc3c9a4c471ba7d971300105af24>:IL_001E)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeClientRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_01A9)
+MoreShipUpgrades.Managers.LGUStore.__rpc_handler_1872631331 (Unity.Netcode.NetworkBehaviour target, Unity.Netcode.FastBufferReader reader, Unity.Netcode.__RpcParams rpcParams) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0081)
+Unity.Netcode.RpcMessageHelpers.Handle (Unity.Netcode.NetworkContext& context, Unity.Netcode.RpcMetadata& metadata, Unity.Netcode.FastBufferReader& payload, Unity.Netcode.__RpcParams& rpcParams) (at <895801699cfc4b4ab52267f31e2a4998>:IL_004E)
+Rethrow as Exception: Unhandled RPC exception!
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ClientRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendClientRpc(FastBufferWriter&, UInt32, ClientRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeClientRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:__rpc_handler_1796694669(NetworkBehaviour, FastBufferReader, __RpcParams)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ServerRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendServerRpc(FastBufferWriter&, UInt32, ServerRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgrade(String, Boolean)
+MoreShipUpgrades.Misc.CommandParser:ExecuteBuyUpgrade(CustomTerminalNode, Terminal&)
+MoreShipUpgrades.Misc.CommandParser:ExecuteUpgradeCommand(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Misc.CommandParser:ParseLGUCommands(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Patches.TerminalPatcher:CustomParser(Terminal&, TerminalNode&)
+Terminal:DMD<Terminal::ParsePlayerSentence>(Terminal)
+Terminal:OnSubmit()
+UnityEngine.Events.UnityEvent`1:Invoke(String)
+TMPro.TMP_InputField:SendOnEndEdit()
+TMPro.TMP_InputField:ReleaseSelection()
+TMPro.TMP_InputField:DeactivateInputField(Boolean)
+TMPro.TMP_InputField:OnUpdateSelected(BaseEventData)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[Error  : Unity Log] KeyNotFoundException: The given key 'NV Headset Batteries' was not present in the dictionary.
+Stack trace:
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <787acc3c9a4c471ba7d971300105af24>:IL_001E)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeClientRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_01A9)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeServerRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0115)
+MoreShipUpgrades.Managers.LGUStore.__rpc_handler_1796694669 (Unity.Netcode.NetworkBehaviour target, Unity.Netcode.FastBufferReader reader, Unity.Netcode.__RpcParams rpcParams) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0081)
+Unity.Netcode.RpcMessageHelpers.Handle (Unity.Netcode.NetworkContext& context, Unity.Netcode.RpcMetadata& metadata, Unity.Netcode.FastBufferReader& payload, Unity.Netcode.__RpcParams& rpcParams) (at <895801699cfc4b4ab52267f31e2a4998>:IL_004E)
+Rethrow as Exception: Unhandled RPC exception!
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ServerRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendServerRpc(FastBufferWriter&, UInt32, ServerRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgrade(String, Boolean)
+MoreShipUpgrades.Misc.CommandParser:ExecuteBuyUpgrade(CustomTerminalNode, Terminal&)
+MoreShipUpgrades.Misc.CommandParser:ExecuteUpgradeCommand(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Misc.CommandParser:ParseLGUCommands(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Patches.TerminalPatcher:CustomParser(Terminal&, TerminalNode&)
+Terminal:DMD<Terminal::ParsePlayerSentence>(Terminal)
+Terminal:OnSubmit()
+UnityEngine.Events.UnityEvent`1:Invoke(String)
+TMPro.TMP_InputField:SendOnEndEdit()
+TMPro.TMP_InputField:ReleaseSelection()
+TMPro.TMP_InputField:DeactivateInputField(Boolean)
+TMPro.TMP_InputField:OnUpdateSelected(BaseEventData)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[Info   : Unity Log] Shared Upgrade
+[Info   : Unity Log] Could not parse word: lgu
+[Info   :ReservedWalkieSlot] ACTIVATE ITEM
+[Info   : Unity Log] Could not parse word: discombobulator
+[Error  : Unity Log] KeyNotFoundException: The given key 'Discombobulator' was not present in the dictionary.
+Stack trace:
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <787acc3c9a4c471ba7d971300105af24>:IL_001E)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeClientRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_018A)
+MoreShipUpgrades.Managers.LGUStore.__rpc_handler_1872631331 (Unity.Netcode.NetworkBehaviour target, Unity.Netcode.FastBufferReader reader, Unity.Netcode.__RpcParams rpcParams) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0081)
+Unity.Netcode.RpcMessageHelpers.Handle (Unity.Netcode.NetworkContext& context, Unity.Netcode.RpcMetadata& metadata, Unity.Netcode.FastBufferReader& payload, Unity.Netcode.__RpcParams& rpcParams) (at <895801699cfc4b4ab52267f31e2a4998>:IL_004E)
+Rethrow as Exception: Unhandled RPC exception!
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ClientRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendClientRpc(FastBufferWriter&, UInt32, ClientRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeClientRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:__rpc_handler_1796694669(NetworkBehaviour, FastBufferReader, __RpcParams)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ServerRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendServerRpc(FastBufferWriter&, UInt32, ServerRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgrade(String, Boolean)
+MoreShipUpgrades.Misc.CommandParser:ExecuteBuyUpgrade(CustomTerminalNode, Terminal&)
+MoreShipUpgrades.Misc.CommandParser:ExecuteUpgradeCommand(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Misc.CommandParser:ParseLGUCommands(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Patches.TerminalPatcher:CustomParser(Terminal&, TerminalNode&)
+Terminal:DMD<Terminal::ParsePlayerSentence>(Terminal)
+Terminal:OnSubmit()
+UnityEngine.Events.UnityEvent`1:Invoke(String)
+TMPro.TMP_InputField:SendOnEndEdit()
+TMPro.TMP_InputField:ReleaseSelection()
+TMPro.TMP_InputField:DeactivateInputField(Boolean)
+TMPro.TMP_InputField:OnUpdateSelected(BaseEventData)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[Error  : Unity Log] KeyNotFoundException: The given key 'Discombobulator' was not present in the dictionary.
+Stack trace:
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <787acc3c9a4c471ba7d971300105af24>:IL_001E)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeClientRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_018A)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeServerRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0115)
+MoreShipUpgrades.Managers.LGUStore.__rpc_handler_1796694669 (Unity.Netcode.NetworkBehaviour target, Unity.Netcode.FastBufferReader reader, Unity.Netcode.__RpcParams rpcParams) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0081)
+Unity.Netcode.RpcMessageHelpers.Handle (Unity.Netcode.NetworkContext& context, Unity.Netcode.RpcMetadata& metadata, Unity.Netcode.FastBufferReader& payload, Unity.Netcode.__RpcParams& rpcParams) (at <895801699cfc4b4ab52267f31e2a4998>:IL_004E)
+Rethrow as Exception: Unhandled RPC exception!
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ServerRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendServerRpc(FastBufferWriter&, UInt32, ServerRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgrade(String, Boolean)
+MoreShipUpgrades.Misc.CommandParser:ExecuteBuyUpgrade(CustomTerminalNode, Terminal&)
+MoreShipUpgrades.Misc.CommandParser:ExecuteUpgradeCommand(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Misc.CommandParser:ParseLGUCommands(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Patches.TerminalPatcher:CustomParser(Terminal&, TerminalNode&)
+Terminal:DMD<Terminal::ParsePlayerSentence>(Terminal)
+Terminal:OnSubmit()
+UnityEngine.Events.UnityEvent`1:Invoke(String)
+TMPro.TMP_InputField:SendOnEndEdit()
+TMPro.TMP_InputField:ReleaseSelection()
+TMPro.TMP_InputField:DeactivateInputField(Boolean)
+TMPro.TMP_InputField:OnUpdateSelected(BaseEventData)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[Info   : Unity Log] Shared Upgrade
+[Info   : Unity Log] Could not parse word: lgu
+[Info   : Unity Log] Could not parse word: discombobulator
+[Error  : Unity Log] KeyNotFoundException: The given key 'Discombobulator' was not present in the dictionary.
+Stack trace:
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <787acc3c9a4c471ba7d971300105af24>:IL_001E)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeClientRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_01A9)
+MoreShipUpgrades.Managers.LGUStore.__rpc_handler_1872631331 (Unity.Netcode.NetworkBehaviour target, Unity.Netcode.FastBufferReader reader, Unity.Netcode.__RpcParams rpcParams) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0081)
+Unity.Netcode.RpcMessageHelpers.Handle (Unity.Netcode.NetworkContext& context, Unity.Netcode.RpcMetadata& metadata, Unity.Netcode.FastBufferReader& payload, Unity.Netcode.__RpcParams& rpcParams) (at <895801699cfc4b4ab52267f31e2a4998>:IL_004E)
+Rethrow as Exception: Unhandled RPC exception!
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ClientRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendClientRpc(FastBufferWriter&, UInt32, ClientRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeClientRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:__rpc_handler_1796694669(NetworkBehaviour, FastBufferReader, __RpcParams)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ServerRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendServerRpc(FastBufferWriter&, UInt32, ServerRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgrade(String, Boolean)
+MoreShipUpgrades.Misc.CommandParser:ExecuteBuyUpgrade(CustomTerminalNode, Terminal&)
+MoreShipUpgrades.Misc.CommandParser:ExecuteUpgradeCommand(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Misc.CommandParser:ParseLGUCommands(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Patches.TerminalPatcher:CustomParser(Terminal&, TerminalNode&)
+Terminal:DMD<Terminal::ParsePlayerSentence>(Terminal)
+Terminal:OnSubmit()
+UnityEngine.Events.UnityEvent`1:Invoke(String)
+TMPro.TMP_InputField:SendOnEndEdit()
+TMPro.TMP_InputField:ReleaseSelection()
+TMPro.TMP_InputField:DeactivateInputField(Boolean)
+TMPro.TMP_InputField:OnUpdateSelected(BaseEventData)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[Error  : Unity Log] KeyNotFoundException: The given key 'Discombobulator' was not present in the dictionary.
+Stack trace:
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <787acc3c9a4c471ba7d971300105af24>:IL_001E)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeClientRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_01A9)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeServerRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0115)
+MoreShipUpgrades.Managers.LGUStore.__rpc_handler_1796694669 (Unity.Netcode.NetworkBehaviour target, Unity.Netcode.FastBufferReader reader, Unity.Netcode.__RpcParams rpcParams) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0081)
+Unity.Netcode.RpcMessageHelpers.Handle (Unity.Netcode.NetworkContext& context, Unity.Netcode.RpcMetadata& metadata, Unity.Netcode.FastBufferReader& payload, Unity.Netcode.__RpcParams& rpcParams) (at <895801699cfc4b4ab52267f31e2a4998>:IL_004E)
+Rethrow as Exception: Unhandled RPC exception!
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ServerRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendServerRpc(FastBufferWriter&, UInt32, ServerRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgrade(String, Boolean)
+MoreShipUpgrades.Misc.CommandParser:ExecuteBuyUpgrade(CustomTerminalNode, Terminal&)
+MoreShipUpgrades.Misc.CommandParser:ExecuteUpgradeCommand(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Misc.CommandParser:ParseLGUCommands(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Patches.TerminalPatcher:CustomParser(Terminal&, TerminalNode&)
+Terminal:DMD<Terminal::ParsePlayerSentence>(Terminal)
+Terminal:OnSubmit()
+UnityEngine.Events.UnityEvent`1:Invoke(String)
+TMPro.TMP_InputField:SendOnEndEdit()
+TMPro.TMP_InputField:ReleaseSelection()
+TMPro.TMP_InputField:DeactivateInputField(Boolean)
+TMPro.TMP_InputField:OnUpdateSelected(BaseEventData)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[Info   : Unity Log] Shared Upgrade
+[Info   : Unity Log] Could not parse word: lgu
+[Info   : Unity Log] Could not parse word: lgu
+[Info   : Unity Log] Could not parse word: discombobulator
+[Error  : Unity Log] KeyNotFoundException: The given key 'Discombobulator' was not present in the dictionary.
+Stack trace:
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <787acc3c9a4c471ba7d971300105af24>:IL_001E)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeClientRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_01A9)
+MoreShipUpgrades.Managers.LGUStore.__rpc_handler_1872631331 (Unity.Netcode.NetworkBehaviour target, Unity.Netcode.FastBufferReader reader, Unity.Netcode.__RpcParams rpcParams) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0081)
+Unity.Netcode.RpcMessageHelpers.Handle (Unity.Netcode.NetworkContext& context, Unity.Netcode.RpcMetadata& metadata, Unity.Netcode.FastBufferReader& payload, Unity.Netcode.__RpcParams& rpcParams) (at <895801699cfc4b4ab52267f31e2a4998>:IL_004E)
+Rethrow as Exception: Unhandled RPC exception!
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ClientRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendClientRpc(FastBufferWriter&, UInt32, ClientRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeClientRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:__rpc_handler_1796694669(NetworkBehaviour, FastBufferReader, __RpcParams)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ServerRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendServerRpc(FastBufferWriter&, UInt32, ServerRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgrade(String, Boolean)
+MoreShipUpgrades.Misc.CommandParser:ExecuteBuyUpgrade(CustomTerminalNode, Terminal&)
+MoreShipUpgrades.Misc.CommandParser:ExecuteUpgradeCommand(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Misc.CommandParser:ParseLGUCommands(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Patches.TerminalPatcher:CustomParser(Terminal&, TerminalNode&)
+Terminal:DMD<Terminal::ParsePlayerSentence>(Terminal)
+Terminal:OnSubmit()
+UnityEngine.Events.UnityEvent`1:Invoke(String)
+TMPro.TMP_InputField:SendOnEndEdit()
+TMPro.TMP_InputField:ReleaseSelection()
+TMPro.TMP_InputField:DeactivateInputField(Boolean)
+TMPro.TMP_InputField:OnUpdateSelected(BaseEventData)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[Error  : Unity Log] KeyNotFoundException: The given key 'Discombobulator' was not present in the dictionary.
+Stack trace:
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <787acc3c9a4c471ba7d971300105af24>:IL_001E)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeClientRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_01A9)
+MoreShipUpgrades.Managers.LGUStore.HandleUpgradeServerRpc (System.String name, System.Boolean increment) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0115)
+MoreShipUpgrades.Managers.LGUStore.__rpc_handler_1796694669 (Unity.Netcode.NetworkBehaviour target, Unity.Netcode.FastBufferReader reader, Unity.Netcode.__RpcParams rpcParams) (at <a6f8f1183b54486da2ff02c1f5324450>:IL_0081)
+Unity.Netcode.RpcMessageHelpers.Handle (Unity.Netcode.NetworkContext& context, Unity.Netcode.RpcMetadata& metadata, Unity.Netcode.FastBufferReader& payload, Unity.Netcode.__RpcParams& rpcParams) (at <895801699cfc4b4ab52267f31e2a4998>:IL_004E)
+Rethrow as Exception: Unhandled RPC exception!
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ServerRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendServerRpc(FastBufferWriter&, UInt32, ServerRpcParams, RpcDelivery)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgradeServerRpc(String, Boolean)
+MoreShipUpgrades.Managers.LGUStore:HandleUpgrade(String, Boolean)
+MoreShipUpgrades.Misc.CommandParser:ExecuteBuyUpgrade(CustomTerminalNode, Terminal&)
+MoreShipUpgrades.Misc.CommandParser:ExecuteUpgradeCommand(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Misc.CommandParser:ParseLGUCommands(String, Terminal&, TerminalNode&)
+MoreShipUpgrades.Patches.TerminalPatcher:CustomParser(Terminal&, TerminalNode&)
+Terminal:DMD<Terminal::ParsePlayerSentence>(Terminal)
+Terminal:OnSubmit()
+UnityEngine.Events.UnityEvent`1:Invoke(String)
+TMPro.TMP_InputField:SendOnEndEdit()
+TMPro.TMP_InputField:ReleaseSelection()
+TMPro.TMP_InputField:DeactivateInputField(Boolean)
+TMPro.TMP_InputField:OnUpdateSelected(BaseEventData)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[Info   : Unity Log] Shared Upgrade
+[Info   : Unity Log] Could not parse word: lgu
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: True
+[Info   : Unity Log] Calling stop animation function StopUsing server rpc for player: 0
+[Info   : Unity Log] STOPPING SPECIAL ANIMATION ON LOCAL CLIENT; player who was using: balintice
+[Info   : Unity Log] Quit terminal; inTerminalMenu true?: {playerScript.inTerminalMenu}
+[Info   : Unity Log] Set interminalmenu to true: True
+[Info   : Unity Log] Could not parse word: lgu
+[Info   :ReservedWalkieSlot] ACTIVATE ITEM
+[Info   : Unity Log] Could not parse word: lgu
+[Info   : Unity Log] Parsed word: shop
+[Info   : Unity Log] noun keyword: shovel ; verb keyword: buy ; result null? : False
+[Info   : Unity Log] result: buyShovel
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: True
+[Info   : Unity Log] Calling stop animation function StopUsing server rpc for player: 0
+[Info   : Unity Log] STOPPING SPECIAL ANIMATION ON LOCAL CLIENT; player who was using: balintice
+[Info   : Unity Log] Quit terminal; inTerminalMenu true?: {playerScript.inTerminalMenu}
+[Info   : Unity Log] Set interminalmenu to true: True
+[Info   : Unity Log] Could not parse word: lgu
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: True
+[Info   : Unity Log] Calling stop animation function StopUsing server rpc for player: 0
+[Info   : Unity Log] STOPPING SPECIAL ANIMATION ON LOCAL CLIENT; player who was using: balintice
+[Info   : Unity Log] Quit terminal; inTerminalMenu true?: {playerScript.inTerminalMenu}
+[Info   : Unity Log] Set interminalmenu to true: True
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: True
+[Info   : Unity Log] Calling stop animation function StopUsing server rpc for player: 0
+[Info   : Unity Log] STOPPING SPECIAL ANIMATION ON LOCAL CLIENT; player who was using: balintice
+[Info   : Unity Log] Quit terminal; inTerminalMenu true?: {playerScript.inTerminalMenu}
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   :ReservedWalkieSlot] ACTIVATE ITEM
+[Info   :ReservedWalkieSlot] ACTIVATE ITEM
+[Info   : Unity Log] Leaving current lobby
+[Info   : Unity Log] Disconnecting and setting networkobjects to destroy with owner
+[Debug  :More Ship Upgrades] [GameNetworkManagerPatcher] Saving the LGU upgrades unto a json file...
+[Info   : Unity Log] Got no ship grabbable items to save.
+[Info   : Unity Log] Shutting down and disconnecting from server. Is host?: True
+[Debug  :More Ship Upgrades] [GameNetworkManagerPatcher] Resetting the Upgrade Bus due to disconnecting...
+[Debug  :More Ship Upgrades] [UpgradeBus] Resetting balintice's attributes
+[Error  : Unity Log] KeyNotFoundException: The given key 'HandSlot' was not present in the dictionary.
+Stack trace:
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <787acc3c9a4c471ba7d971300105af24>:IL_001E)
+LethalProgression.Patches.XPPatches.DisconnectXPHandler () (at <921abc4e643b402eb381ff4e93321c57>:IL_0001)
+(wrapper dynamic-method) GameNetworkManager.DMD<GameNetworkManager::Disconnect>(GameNetworkManager)
+QuickMenuManager.LeaveGameConfirm () (at <af9b1eec498a45aebd42601d6ab85015>:IL_001E)
+UnityEngine.Events.InvokableCall.Invoke () (at <e27997765c1848b09d8073e5d642717a>:IL_0010)
+UnityEngine.Events.UnityEvent.Invoke () (at <e27997765c1848b09d8073e5d642717a>:IL_0022)
+UnityEngine.UI.Button.Press () (at <17de86d66286445fa95af59fa8fa644d>:IL_001C)
+UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) (at <17de86d66286445fa95af59fa8fa644d>:IL_0009)
+UnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) (at <17de86d66286445fa95af59fa8fa644d>:IL_0007)
+UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) (at <17de86d66286445fa95af59fa8fa644d>:IL_0067)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[Info   : Unity Log] [Network Transport] Disconnected
+[Info   : Unity Log] Resetting unlockables list!
+[Info   : Unity Log] Scene manager is null
+[Info   : Unity Log] DISABLING connection callbacks in round manager
+[Info   :RugbugRedfern.SkinwalkerMod] SkinwalkerNetworkManager OnDestroy
+[Info   : Unity Log] Terminal disabled, disabling ESC key listener
+[Info   :BuyableShotgun] Shotgun added to Shop for 700 credits
+[Info   :Buyable Shotgun Shells] Shotgun Shells added to Shop for 20 credits
+[Info   : Unity Log] Returning week num: 4
+[Info   : Unity Log] week num: 4
+[Debug  :More Ship Upgrades] [GameNetworkManagerPatcher] Resetting the Upgrade Bus due to disconnecting...
+[Error  : Unity Log] Error while disconnecting: System.Collections.Generic.KeyNotFoundException: The given key 'HandSlot' was not present in the dictionary.
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <787acc3c9a4c471ba7d971300105af24>:IL_001E 
+  at LethalProgression.Patches.XPPatches.DisconnectXPHandler () [0x00001] in <921abc4e643b402eb381ff4e93321c57>:IL_0001 
+  at (wrapper dynamic-method) GameNetworkManager.DMD<GameNetworkManager::Disconnect>(GameNetworkManager)
+  at GameNetworkManager.OnApplicationQuit () [0x00015] in <af9b1eec498a45aebd42601d6ab85015>:IL_0015 
+[Info   : Unity Log] unsubscribing from steam callbacks
